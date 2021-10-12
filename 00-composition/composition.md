@@ -22,4 +22,4 @@ In the picture we can see two objects...
 
 It was an interesting game. At first it seemed like an easy game, but in reality it was difficult to sketch these objects. We had to think about the details of the description.
 
-
+![00-composition](img/sentences.jpg)
