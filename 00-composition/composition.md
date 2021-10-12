@@ -1,7 +1,7 @@
 # Two objects
 ## _"Easy peasy" construction_
 
-![Composition 3](https://jgagne.github.io/ajovt3-zs21-vskk/img/00-composition/03-comp.png)
+![Composition 3](img/picture.JPG)
 
 
 ---
