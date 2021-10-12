@@ -6,9 +6,7 @@
 
 ---
 In the picture we can see two objects... 
-- ROOF
-- CHIMNEY/TOWER
-- = CHURCH
+- ROOF + CHIMNEY/TOWER = CHURCH
 ---
 
 ## Description
