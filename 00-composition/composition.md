@@ -1,7 +1,7 @@
 # Two objects
 ## _"Easy peasy" construction_
 
-![00-composition](img/sentences.jpg)
+![00-composition](img/picture.jpg)
 
 
 ---
