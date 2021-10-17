@@ -12,4 +12,4 @@ photo
 
 photo
 
-*&*, Justin Gagne. Screenshot of an artboard in Adobe Illustrator. 2017
+Tereza Budská 2021
