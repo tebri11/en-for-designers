@@ -4,7 +4,8 @@
 
 ![00-composition](img/like.jpg)
 
-**Alt text:** A close-up of a 16 point ampersand typed in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
+**Alt text:** An arrangement of 16 natural pine cones. One pine cone is from 15 to 23 centimeters.
+
 
 ---
 
