@@ -8,10 +8,5 @@
 
 ---
 
-# Process
 
-![00-composition](img/cones.jpg)
-
-Tereza Budská. Photo --- 2021
-
-For example: &, Justin Gagne. Screenshot of an artboard in Adobe Illustrator. 2017
+Tereza Budská. Photo 2021
