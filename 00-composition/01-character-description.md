@@ -1,6 +1,6 @@
 # Character & Description
 
-# Creative photo
+# Letter T
 
 photo
 
@@ -12,4 +12,6 @@ photo
 
 photo
 
-Tereza Budská 2021
+Tereza Budská. Photo --- 2021
+
+For example: &, Justin Gagne. Screenshot of an artboard in Adobe Illustrator. 2017
