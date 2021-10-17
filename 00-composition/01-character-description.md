@@ -4,7 +4,7 @@
 
 ![00-composition](img/like.jpg)
 
-**Alt text:** An arrangement of 16 natural pine cones. One pine cone is from 15 to 23 centimeters.
+**Alt text:** An arrangement created by natural pine cones. One pine cone is from 15 to 23 centimeters.
 
 
 ---
