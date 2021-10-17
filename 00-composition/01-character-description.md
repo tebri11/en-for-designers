@@ -8,7 +8,7 @@
 
 ---
 
-# Original photo
+# Process
 
 ![00-composition](img/cones.jpg)
 
