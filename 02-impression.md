@@ -2,16 +2,18 @@
 
 ## My portfolio
 
-![image](00-composition/img/1.jpg)
-
 Short description about yourself and the work.
 
-- [View Presentation](img/…)
+![image](00-composition/img/1.jpg)
+
+Short description...
+
+![image](00-composition/img/2.jpg)
+
+Short description...
+
+![image](00-composition/img/3.jpg)
+
+Short description...
 
 ### Notes
-
-Numbered comments correspond to slide order.
-
-1. …
-2. …
-3. …
