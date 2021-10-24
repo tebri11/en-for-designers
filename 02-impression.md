@@ -2,7 +2,7 @@
 
 ## My portfolio
 
-I am a junior graphic designer who is working in a small company called Abuco ICT. In my free time, I like drawing, sketching, and painting whatever comes in my mind. I love cooperating with my fantasy. Here you can see some of my artwork. Most of them are put in mockups.
+I am a junior graphic designer. In my free time, I like drawing, sketching, and painting whatever comes in my mind. I love cooperating with my fantasy. Here you can see some of my artwork. Most of them are put in mockups.
 
 1. - Digital painting created in application Procreate.
 ---
