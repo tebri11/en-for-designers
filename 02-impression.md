@@ -2,7 +2,7 @@
 
 ## My portfolio
 
-![Screenshot from title slide of presentation.](img/title-slide.png)
+![image](00-composition/img/1.jpg)
 
 Short description about yourself and the work.
 
