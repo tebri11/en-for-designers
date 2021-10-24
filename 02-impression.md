@@ -4,7 +4,7 @@
 
 I am a junior graphic designer, works at a small company in Abuco ICT. Sometimes I am drawing, sketching, and painting, here are my examples. All artworks are used in the mockups.
 
-1. Digital painting created in application Procreate.
+- 1.Digital painting created in application Procreate.
 ---
 ![image](00-composition/img/1.jpg)
 
