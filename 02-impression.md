@@ -28,4 +28,3 @@ I am a junior graphic designer, works at a small company in Abuco ICT. Sometimes
 ---
 ![image](00-composition/img/6.jpg)
 
-### Notes
