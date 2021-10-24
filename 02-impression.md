@@ -2,7 +2,7 @@
 
 ## My portfolio
 
-Short description about yourself and the work.
+I am a junior graphic designer, works at a small company in Abuco ICT. Sometimes I am drawing, sketching, and painting, here are my examples.
 
 1. Short description...
 ![image](00-composition/img/1.jpg)
