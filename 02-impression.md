@@ -2,7 +2,7 @@
 
 ## My portfolio
 
-I am a junior graphic designer, works at a small company in Abuco ICT. Sometimes I am drawing, sketching, and painting, here are my examples. All artworks are used in the mockups.
+I am a junior graphic designer who is working in a small company called Abuco ICT. In my free time, I like drawing, sketching, and painting whatever comes in my mind. I love cooperating with my fantasy. Here you can see some of my artwork. Most of them are put in mockups.
 
 1. - Digital painting created in application Procreate.
 ---
@@ -16,7 +16,7 @@ I am a junior graphic designer, works at a small company in Abuco ICT. Sometimes
 ---
 ![image](00-composition/img/3.jpg)
 
-4. - Painting springs flowers by watercolor.
+4. - Painting spring flowers by watercolor.
 ---
 ![image](00-composition/img/4.jpg)
 
