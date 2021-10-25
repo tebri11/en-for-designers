@@ -29,7 +29,7 @@ I am a junior graphic designer. In my free time, I like drawing, sketching, and 
 ![image](img/5.jpg)
 
 6. - Beautiful spring tulips created by watercolor.
-- **Alt text:** Red flowers on canvas.
 ---
+**Alt text:** Red flowers on canvas.
 ![image](img/6.jpg)
 
