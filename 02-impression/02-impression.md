@@ -6,12 +6,12 @@ I am a junior graphic designer. In my free time, I like drawing, sketching, and 
 
 1. - Digital painting created in application Procreate.
 ---
-**Alt text:** Feeling of night, forest, winter. 
+**Alt text:** The feeling of night, the smell of the forest and the cold winter. 
 ![image](img/1.jpg)
 
 2. - Sketching of a fish created in ink.
 ---
-**Alt text:** Fish in the middle of the sea.
+**Alt text:** Fish in the middle of the deep sea.
 ![image](img/2.jpg)
 
 3. - Drawing things, clothes, textiles, vegetables in free time.
