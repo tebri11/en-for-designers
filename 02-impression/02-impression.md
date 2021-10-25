@@ -14,7 +14,7 @@ I am a junior graphic designer. In my free time, I like drawing, sketching, and 
 **Alt text:** Fish in the middle of the deep sea.
 ![image](img/2.jpg)
 
-3. - Drawing things, clothes, textiles, vegetables in free time.
+3. - Drawing things, clothes, vegetables in free time.
 ---
 ![image](img/3.jpg)
 
