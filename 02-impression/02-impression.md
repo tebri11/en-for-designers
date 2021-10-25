@@ -20,7 +20,7 @@ I am a junior graphic designer. In my free time, I like drawing, sketching, and 
 
 4. - Painting spring flowers by watercolor.
 ---
-**Alt text:** Spring narcissus on canvas.
+**Alt text:** The scent of spring narcissus on canvas.
 ![image](img/4.jpg)
 
 5. - Pastels, pencils, chalks and ink.
@@ -30,6 +30,6 @@ I am a junior graphic designer. In my free time, I like drawing, sketching, and 
 
 6. - Beautiful spring tulips created by watercolor.
 ---
-**Alt text:** Red flowers on canvas.
+**Alt text:** The scent of red flowers on canvas.
 ![image](img/6.jpg)
 
