@@ -9,7 +9,7 @@ I am a junior graphic designer. In my free time, I like drawing, sketching, and 
 **Alt text:** The feeling of night, the smell of the forest and the cold winter. 
 ![image](img/1.jpg)
 
-2. - Sketching of a fish created in ink.
+2. - Sketching of a fish created by ink.
 ---
 **Alt text:** Fish in the middle of the deep sea.
 ![image](img/2.jpg)
