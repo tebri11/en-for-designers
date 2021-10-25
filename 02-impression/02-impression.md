@@ -7,29 +7,29 @@ I am a junior graphic designer. In my free time, I like drawing, sketching, and 
 1. - Digital painting created in application Procreate.
 ---
 **Alt text:** Feeling of night, forest, winter. 
-![image](02-impression/img/1.jpg)
+![image](img/1.jpg)
 
 2. - Sketching of a fish created in ink.
 ---
 **Alt text:** Fish in the middle of the sea.
-![image](02.md/img/2.jpg)
+![image](img/2.jpg)
 
 3. - Drawing things, clothes, textiles, vegetables in free time.
 ---
-![image](00-composition/img/3.jpg)
+![image](img/3.jpg)
 
 4. - Painting spring flowers by watercolor.
 ---
 **Alt text:** Spring narcissus on canvas.
-![image](00-composition/img/4.jpg)
+![image](img/4.jpg)
 
 5. - Pastels, pencils, chalks and ink.
 ---
 **Alt text:** Art Gallery.
-![image](00-composition/img/5.jpg)
+![image](img/5.jpg)
 
 6. - Beautiful spring tulips created by watercolor.
 - **Alt text:** Red flowers on canvas.
 ---
-![image](00-composition/img/6.jpg)
+![image](img/6.jpg)
 
