@@ -1,6 +1,6 @@
 # Impression
 
-## My portfolio
+## My favorite portfolio pieces
 
 I am a junior graphic designer. In my free time, I like drawing, sketching, and painting whatever comes in my mind. I love cooperating with my fantasy. Here you can see some of my artwork. Most of them are put in mockups.
 
