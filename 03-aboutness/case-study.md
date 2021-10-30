@@ -2,7 +2,7 @@
 
 Content goes here…
 
-![Alt text description.](oznámení.jpg)
+![Alt text description.](oznameni.jpg)
 
 ![Alt text description.](program.jpg)
 
