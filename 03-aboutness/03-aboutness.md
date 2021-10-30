@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a graphic designer and lover of music from a small village near Prague.
+I am a graphic designer and lover of music from a small village.
 
 - [View Selected Case Study](case-study.md) <!-- A link to your case study -->
 
