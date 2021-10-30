@@ -1,4 +1,4 @@
-# Project Title
+# Design of wedding
 
 Content goes here…
 
