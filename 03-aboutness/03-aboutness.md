@@ -2,7 +2,7 @@
 
 ## About Me
 
-A concise, single sentence about yourself as a designer (aim for about 100 characers).
+I am a graphic designer and lover of music from a small village near Prague.
 
 - [View Selected Case Study](case-study.md) <!-- A link to your case study -->
 
