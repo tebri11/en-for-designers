@@ -8,9 +8,9 @@
 
 - program of wedding day 
 - voucher for newlyweds
-- wedding announcement / invitation
+- welcome poster
 
 ![Alt text description.](kolaz2.jpg)
 
+- wedding announcement / invitation
 - invitation to the wedding table
-- 
