@@ -1,4 +1,4 @@
-# 🌸 Wedding design 🌸
+# 🌸🌿 Wedding design
 
 12th June, 2021 was the wedding day of my sister.
 
