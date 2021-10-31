@@ -14,3 +14,5 @@
 
 - wedding announcement / invitation
 - invitation to the wedding table
+
+The whole visual identity describes the wedding day of my sister and her husband.
