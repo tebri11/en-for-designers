@@ -1,6 +1,6 @@
 # Wedding design
 
-On 12 of June was the wedding day of my sister.
+12th June, 2021 was the wedding day of my sister.
 
 - V + P
 
