@@ -2,7 +2,7 @@
 
 On 12 of June was the wedding day of my sister.
 
--- V + P
+- V + P
 
 ![Alt text description.](kolaz.jpg)
 
