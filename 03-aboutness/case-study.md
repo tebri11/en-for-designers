@@ -1,6 +1,6 @@
 # Wedding design
 
-Content goes here…
+On 12 of June was the wedding day of my sister.
 
 ![Alt text description.](kolaz.jpg)
 
