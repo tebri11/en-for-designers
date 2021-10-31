@@ -8,7 +8,7 @@ I am a graphic designer and lover of music from a small village.
 
 ## My Story
 
-![Alt text description.](me.png)
+![Alt text description.](me.jpg)
 
 When I was a child I try to art school in Prague named DRAW PLANET. Besides my next hobbies included dancing - cheerleaders, street dance, hip hop, aerobic, etc.
 
