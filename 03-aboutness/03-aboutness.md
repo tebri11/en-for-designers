@@ -10,4 +10,8 @@ I am a graphic designer and lover of music from a small village.
 
 ![Alt text description.](me.jpg)
 
-A series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about what you do, your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each). Don’t worry about length — write first — then edit for clarity and conciseness later.
+When I was a child I try to art school in Prague named DRAW PLANET. Besides my next hobbies included dancing - cheerleaders, street dance, hip hop, aerobic, etc.
+
+I went to this art course for about 2 years and after primary school, I went to secondary school DUKE - of Design and Art, Book Culture, and Economics Náhorní. For about 10 days I participated in practice in a small IT company named Abuco ICT and they gave me a job like graphic.
+
+However now I am a student in VŠKK, I am working externally with a few companies. In the future a would like to find my dream job.
