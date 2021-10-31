@@ -1,4 +1,4 @@
-# Design of wedding
+# Wedding design
 
 Content goes here…
 
