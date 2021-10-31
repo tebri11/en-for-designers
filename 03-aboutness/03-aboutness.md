@@ -4,7 +4,7 @@
 
 I am a graphic designer, dancer and lover of music.
 
-- [View Selected Case Study](case-study.md) <!-- A link to your case study -->
+- [View Selected Case Study](case-study.md) 🌸
 
 ## My Story
 
