@@ -4,7 +4,7 @@
 
 I am Tereza, artist, graphic designer, dancer, and lover of music.
 
-- [My project](case-study.md) 🌸
+- [Case Study](case-study.md) 🌸
 
 ![that'sme.](me.jpg)
 
