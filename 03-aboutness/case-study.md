@@ -6,8 +6,10 @@ I would like to introduce visual identity, which describes the wedding day of my
 - 12th June, 2021
 - V + P
 ---
+## Description
 I created a schedule, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
 
+## Design
 1. I used thin font, cold colors with light pink. 
 2. All sheets of paper were created on thick silver paper.
 3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
