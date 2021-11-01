@@ -1,16 +1,16 @@
 # 🌸🌿 Wedding design
 
 ## Brief
-12th June, 2021 was the wedding day of my sister. 
-The whole visual identity describes the wedding day of my sister and her husband.
+I would like to introduce visual identity, which describes the wedding day of my sister and her husband.
 
+- 12th June, 2021
 - V + P
 ---
 I created a schedule, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
 
 1. I used thin font, cold colors with light pink. 
 2. All sheets of paper were created on thick silver paper.
-3. My sister’s favorite plant is eucalypt - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
+3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
 4. Each invitation contains a naturally small and large envelope in brown color.
 
 ![Alt text description.](kolaz.jpg)
