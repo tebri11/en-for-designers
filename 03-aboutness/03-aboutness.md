@@ -2,14 +2,13 @@
 
 ## About Me
 
-I am a graphic designer, dancer, and lover of music.
+I am Tereza, artist, graphic designer, dancer, and lover of music.
 
 - [My project](case-study.md) 🌸
 
-## My Story
-
 ![that'sme.](me.jpg)
 
+## My Story
 Since my childhood, I love everything about drawing. That was the point why I decided to absolve an art course called DRAW PLANET which was in Pragues art school. This course prepared me for the exams in high school.
 
 My high school was DUKE - of Design and Art, Book Culture, and Economics Náhorní.
