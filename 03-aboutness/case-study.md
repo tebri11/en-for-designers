@@ -21,7 +21,7 @@ I created a schedule of a wedding day, a voucher for newlyweds like a gift, welc
 - wedding announcement / invitation
 - invitation to the wedding table
 
-## Design
+## What did the design look like?
 1. I used thin font, cold colors with light pink. 
 2. All sheets of paper were created on thick silver paper.
 3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
