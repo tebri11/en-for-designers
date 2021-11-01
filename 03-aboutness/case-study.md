@@ -7,7 +7,7 @@ I would like to introduce visual identity, which describes the wedding day of my
 - V + P
 
 ## Description
-I created a schedule, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
+I created a schedule of a wedding day, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
 
 ## Design
 1. I used thin font, cold colors with light pink. 
