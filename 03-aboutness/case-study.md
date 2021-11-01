@@ -5,6 +5,7 @@ I would like to introduce visual identity, which describes the wedding day of my
 
 - 12th June, 2021
 - V + P
+- 
 ---
 ## Description
 I created a schedule, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
