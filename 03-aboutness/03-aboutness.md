@@ -8,7 +8,7 @@ I am a graphic designer, dancer and lover of music.
 
 ## My Story
 
-![Alt text description.](me.jpg)
+![that'sme.](me.jpg)
 
 Since my childhood, I love everything about drawing. That was the point why I decided to absolve an art course called DRAW PLANET which was in Pragues art school. This course prepared me for the exams in high school.
 
