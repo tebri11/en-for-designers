@@ -10,10 +10,11 @@ I am a graphic designer, dancer and lover of music.
 
 ![Alt text description.](me.jpg)
 
-When I was a child I went to an art school in Prague named DRAW PLANET. I went to this art course for about 2 years. 
+Since my childhood I love everything about drawing. That was the point why I decided to absolve an art course called DRAW PLANET which was in Pragues art school. This course prepared me for the exams on high school.
 
-After primary school, I went to secondary school DUKE - of Design and Art, Book Culture, and Economics Náhorní. 
+My high school was DUKE - of Design and Art, Book Culture, and Economics Náhorní.
+During studies we had required experience for 10 days choosen by us. I decided for small IT company called Abuco ICT. They offered me a part time job as a graphic designer and I took it. Nowadays I study at VŠKK and I am still working for Abuco ICT. I create web design, online banners, posts, visual identity, icons, illustrations, etc. for them.
 
-For about 10 days I was in practice in a small IT company named Abuco ICT and they gave me a job as a graphic designer. I create web design, online banners, posts, visual identity, icons, illustrations, etc.
+Except art my other hobbies are dancing, listening to music and playing games.
 
-However now I am a student in VŠKK, I am working externally for a few companies. My hobbies are dancing, sketching, painting, listening to music, and playing games. 
+In a future I would like to create my own mark called teb.r.i studio. Of course I want to improve my skills by watching new trends.
