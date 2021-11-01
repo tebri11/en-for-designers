@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a graphic designer, dancer and lover of music.
+I am a graphic designer, dancer, and lover of music.
 
 - [My project](case-study.md) 🌸
 
