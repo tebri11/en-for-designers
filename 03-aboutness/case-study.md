@@ -1,6 +1,6 @@
 # 🌸🌿 Wedding design
 
-12th June, 2021 was the wedding day of my sister.
+12th June 2021 was the wedding day of my sister.
 
 - V + P
 ---
@@ -14,7 +14,7 @@ I created a schedule, a voucher for newlyweds like a gift, welcome poster (witho
 
 ![Alt text description.](kolaz.jpg)
 
-- schedule of wedding day (A1)
+- schedule of a wedding day (A1)
 - voucher for newlyweds
 - welcome poster (A1)
 
