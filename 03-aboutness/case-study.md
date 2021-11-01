@@ -6,7 +6,7 @@
 
 ![Alt text description.](kolaz.jpg)
 
-- program of wedding day (A1)
+- schedule of wedding day (A1)
 - voucher for newlyweds
 - welcome poster (A1)
 
@@ -18,7 +18,7 @@
 ---
 
 The whole visual identity describes the wedding day of my sister and her husband.
-I created a program for the wedding day, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
+I created a schedule, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
 
 1. I used thin font, cold colors with light pink. 
 2. All sheets of paper were created with strong, silver paper.
