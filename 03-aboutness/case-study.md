@@ -1,11 +1,11 @@
 # 🌸🌿 Wedding design
 
 ## Brief
-12th June, 2021 was the wedding day of my sister.
+12th June, 2021 was the wedding day of my sister. 
+The whole visual identity describes the wedding day of my sister and her husband.
 
 - V + P
 ---
-The whole visual identity describes the wedding day of my sister and her husband.
 I created a schedule, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
 
 1. I used thin font, cold colors with light pink. 
