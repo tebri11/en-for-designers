@@ -1,5 +1,5 @@
 # 🌸🌿 Wedding design
----
+
 ## Brief
 I would like to introduce visual identity, which describes the wedding day of my sister and her husband.
 
@@ -15,6 +15,7 @@ I created a schedule, a voucher for newlyweds like a gift, welcome poster (witho
 3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
 4. Each invitation contains a naturally small and large envelope in brown color.
 
+---
 ![Alt text description.](kolaz.jpg)
 
 - schedule of a wedding day (A1)
@@ -26,4 +27,5 @@ I created a schedule, a voucher for newlyweds like a gift, welcome poster (witho
 - wedding announcement / invitation
 - invitation to the wedding table
 
+## Result
 My sister was excited and I would like to try to create another wedding invitation for people.
