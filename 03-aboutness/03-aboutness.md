@@ -4,7 +4,6 @@
 
 🌸 I am Tereza, artist, graphic designer, dancer, and lover of music.
 
-- [Game](00-composition/00-composition.md)
 - [Other projects](02-impression/02-impression.md)
 - [Case Study](case-study.md) 
 
