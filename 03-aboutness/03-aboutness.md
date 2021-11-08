@@ -4,8 +4,8 @@
 
 🌸 I am Tereza, artist, graphic designer, dancer, and lover of music.
 
-- [Other projects](02-impression/02-impression.md)
 - [Case Study](case-study.md) 
+- [Other projects](02-impression/02-impression.md)
 
 ![that'sme.](me.jpg)
 
