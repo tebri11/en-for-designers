@@ -22,20 +22,15 @@ I created a schedule of a wedding day, a voucher for newlyweds like a gift, welc
 - invitation to the wedding table
 
 ## Action
-I started around March 1 and ended on June 1, so all my work lasted two months. Each project was individual. I used an illustrator and some vectors from a free website.
-I have a favorite copy center in Ricany - E-DKP s.r.o., so I printed the projects here...
+I started to create projects around March and I ended in June, so all my work lasted two months. Each project was individual - the hardest work was with vectors of eucalyptus from a free website and all projects I created in illustrator. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
+I have a favorite copy center in Ricany - E-DKP s.r.o., so I printed the projects here and I bought a naturally small and large envelope in brown color for each invitation.
 
 ## Problem
 I had a problem with the type of paper. At first, they printed an invitation on thin paper, although I wanted white, pearlescent, and thick paper for each design. But they were nice and they gave me a less discount.
 So my sister didn't have to deal with anything, and I was happy to do it for her.
 
-# What did the design look like?
-1. I used thin font, cold colors with light pink. 
-2. All sheets of paper were created on thick silver paper.
-3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
-4. Each invitation contains a naturally small and large envelope in brown color.
-
 ## Color palette
+I used thin font, cold colors with light pink and all sheets of paper were created on thick silver, pearlescent paper.
 ![Alt text description.](colors.jpg)
 
 ## Result
