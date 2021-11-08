@@ -2,10 +2,11 @@
 
 ## About Me
 
-I am Tereza, artist, graphic designer, dancer, and lover of music.
+🌸 I am Tereza, artist, graphic designer, dancer, and lover of music.
 
-- [Case Study](case-study.md) 🌸
+- [Game](00-composition/00-composition.md)
 - [Other projects](02-impression/02-impression.md)
+- [Case Study](case-study.md) 
 
 ![that'sme.](me.jpg)
 
