@@ -9,6 +9,9 @@ I would like to introduce visual identity, which describes the wedding day of my
 ## Description
 I created a schedule of a wedding day, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
 
+## Color palette
+![Alt text description.](colors.jpg)
+
 ---
 ![Alt text description.](kolaz.jpg)
 
@@ -28,7 +31,7 @@ I created a schedule of a wedding day, a voucher for newlyweds like a gift, welc
 4. Each invitation contains a naturally small and large envelope in brown color.
 
 ## Problem
-I had a problem with the type of paper. At first, they printed my invitation on thin paper, although I wanted white, pearlescent, and thick paper for each design.
+I had a problem with the type of paper. At first, they printed an invitation on thin paper, although I wanted white, pearlescent, and thick paper for each design. But they were nice and they gave me a less discount.
 So my sister didn't have to deal with anything, and I was happy to do it for her.
 
 ## Action
