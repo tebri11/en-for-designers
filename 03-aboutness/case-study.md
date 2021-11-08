@@ -27,5 +27,12 @@ I created a schedule of a wedding day, a voucher for newlyweds like a gift, welc
 3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
 4. Each invitation contains a naturally small and large envelope in brown color.
 
-## And result?
-My sister was excited and I would like to try to create another wedding invitation for people.
+## Problem
+I had a problem with the type of paper. At first, they printed my invitation on thin paper, although I wanted white, pearlescent, and thick paper for each design.
+So my sister didn't have to deal with anything, and I was happy to do it for her.
+
+## Action
+
+
+## Result
+Thanks to me, it was financially advantageous for the sister. The creativity was original, decent, modern and now I have a new project to my portfolio. My sister was excited and I would like to try to create another wedding invitation for people.
