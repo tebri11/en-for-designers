@@ -20,3 +20,5 @@ Nowadays I study at VŠKK and I am still working for Abuco ICT. I create web des
 In the future, I would like to create my own mark called te.b.ri studio. Of course, I want to improve my skills by watching new trends.
 
 Except for art my other hobbies are dancing, listening to music and playing games. I was a cheerleader 5 years ago, for about 15 years, but the team fell apart. I tried aerobic, hip-hop, street dance... Now I am doing a shuffle dance (American dance) for fun.
+
+🌸 So that’s my story.
