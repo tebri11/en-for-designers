@@ -35,7 +35,7 @@ I had a problem with the type of paper. At first, they printed an invitation on 
 So my sister didn't have to deal with anything, and I was happy to do it for her.
 
 ## Action
-
+I started around March 1 and ended on June 1, so all my work lasted two months. Each project was individual. I used an illustrator and some vectors from a free website.
 
 ## Result
 Thanks to me, it was financially advantageous for the sister. The creativity was original, decent, modern and now I have a new project to my portfolio. My sister was excited and I would like to try to create another wedding invitation for people.
