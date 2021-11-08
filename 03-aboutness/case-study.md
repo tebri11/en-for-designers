@@ -9,9 +9,6 @@ I would like to introduce visual identity, which describes the wedding day of my
 ## Description
 I created a schedule of a wedding day, a voucher for newlyweds like a gift, welcome poster (without welcome drink:)), wedding invitation, and invitation to the wedding table.
 
-## Color palette
-![Alt text description.](colors.jpg)
-
 ---
 ![Alt text description.](kolaz.jpg)
 
@@ -24,18 +21,22 @@ I created a schedule of a wedding day, a voucher for newlyweds like a gift, welc
 - wedding announcement / invitation
 - invitation to the wedding table
 
-## What did the design look like?
-1. I used thin font, cold colors with light pink. 
-2. All sheets of paper were created on thick silver paper.
-3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
-4. Each invitation contains a naturally small and large envelope in brown color.
+## Action
+I started around March 1 and ended on June 1, so all my work lasted two months. Each project was individual. I used an illustrator and some vectors from a free website.
+I have a favorite copy center in Ricany - E-DKP s.r.o., so I printed the projects here...
 
 ## Problem
 I had a problem with the type of paper. At first, they printed an invitation on thin paper, although I wanted white, pearlescent, and thick paper for each design. But they were nice and they gave me a less discount.
 So my sister didn't have to deal with anything, and I was happy to do it for her.
 
-## Action
-I started around March 1 and ended on June 1, so all my work lasted two months. Each project was individual. I used an illustrator and some vectors from a free website.
+# What did the design look like?
+1. I used thin font, cold colors with light pink. 
+2. All sheets of paper were created on thick silver paper.
+3. My sister’s favorite plant is eucalyptus - pure, cold, decent, minimalist… So I used this green plant with small, pink flowers.
+4. Each invitation contains a naturally small and large envelope in brown color.
+
+## Color palette
+![Alt text description.](colors.jpg)
 
 ## Result
 Thanks to me, it was financially advantageous for the sister. The creativity was original, decent, modern and now I have a new project to my portfolio. My sister was excited and I would like to try to create another wedding invitation for people.
