@@ -2,9 +2,9 @@
 
 Tereza Budská
 --
-01.04.1999
-Českobrodská 120 / 251 62 Mukařov / Česká republika
-+420 736 223 921 / terkabudska462@gmail.com
+- 01.04.1999
+- Českobrodská 120 / 251 62 Mukařov / Česká republika
+- +420 736 223 921 / terkabudska462@gmail.com
 
 --
 # Experience
