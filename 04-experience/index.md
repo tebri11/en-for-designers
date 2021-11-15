@@ -41,7 +41,7 @@ Graphic Design - September  2015 - June 2019
 - Adobe Lightroom - Photos, filters.
 - Facebook / Instagram - Stories, posts, cover photos, profile photos.
 - Microsoft Word / PowerPoint - Presentation, brief.
-- Dancing, travel, cooking, hiking, playing with my cat.
+- Dancing, traveling, cooking, hiking, playing games.
 
 
 - [Download CV (PDF)](pdf/cv-2021-budska.pdf)
