@@ -33,15 +33,15 @@ Graphic Design - September  2015 - June 2019
 - Academic interests: Propagation, Advertising, Typography, Graphis Design, Drawing
 
 --
-- Skills and interests
-Adobe Photoshop - Retouch details, crop, photo size.
-Adobe Illustrator - Logo, icons, illustrations, posters, business cards.
-Adobe XD - Wireframes of websites.
-Adobe InDesign - Magazines.
-Adobe Lightroom - Photos, filters.
-Facebook / Instagram - Stories, posts, cover photos, profile photos.
-Microsoft Word / PowerPoint - Presentation, brief.
-Dancing, travel, cooking, hiking, playing with my cat
+#### Skills and interests
+- Adobe Photoshop - Retouch details, crop, photo size.
+- Adobe Illustrator - Logo, icons, illustrations, posters, business cards.
+- Adobe XD - Wireframes of websites.
+- Adobe InDesign - Magazines.
+- Adobe Lightroom - Photos, filters.
+- Facebook / Instagram - Stories, posts, cover photos, profile photos.
+- Microsoft Word / PowerPoint - Presentation, brief.
+- Dancing, travel, cooking, hiking, playing with my cat.
 
 
 - [Download CV (PDF)](pdf/cv-2021-budska.pdf)
