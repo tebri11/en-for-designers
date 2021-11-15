@@ -1,7 +1,7 @@
-## Tereza Budská / 01.04.1999
+## Tereza Budská 
 
 ### Summary
-Experienced Junior Graphic Designer with 5 years of experience and specializing in creativity. Well-versed in programs including Adobe Photoshop, Illustrator, XD, InDesign, Lightroom.
+I am a Junior Graphic Designer with 3 years of experience. I am specializing in creativity, web design, and visual identity. 
 
 --
 #### Address: Českobrodská 120 / 251 62 Mukařov / Česká republika
@@ -26,11 +26,11 @@ Graphic Designer - June 2018 - current
 #### Education
 The University of Creative Communication, Prague, Pražského povstání
 Graphic and Media Design - September 2019 - current 
-- Academic interests: Typography, Digital design, Graphis Design, Drawing 
+- Academic interests: Typography, Digital design, Graphic Design, Drawing 
 
 SŠ DUKE Náhorní, Prague, Kobylisy
 Graphic Design - September  2015 - June 2019 
-- Academic interests: Propagation, Advertising, Typography, Graphis Design, Drawing
+- Academic interests: Propagation, Advertising, Typography, Graphic Design, Drawing
 
 --
 #### Skills and interests
