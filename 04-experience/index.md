@@ -44,4 +44,4 @@ Graphic Design - September  2015 - June 2019
 - Dancing, traveling, cooking, hiking, playing games.
 
 
-- [Download CV (PDF)](pdf/cv-2021-budska.pdf)
+- [Download CV (PDF)](cv-2021-budska.pdf)
