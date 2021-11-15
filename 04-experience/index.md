@@ -9,7 +9,7 @@ I am a Junior Graphic Designer with 3 years of experience. I am specializing in 
 #### Email: terkabudska462@gmail.com
 --
 
-#### Experience
+### Experience
 DigitalAd s.r.o., Prague, Smíchov
 Graphic Designer - June 2020 - current
 - The company is in the center of Prague, but I only work externally for them.
@@ -23,25 +23,21 @@ Graphic Designer - June 2018 - current
 - I helped devise campaigns for Doke, Woox, Dtest, CZLT. 
 
 --
-#### Education
+### Education
 The University of Creative Communication, Prague, Pražského povstání
 Graphic and Media Design - September 2019 - current 
 - Academic interests: Typography, Digital design, Graphic Design, Drawing 
 
 SŠ DUKE Náhorní, Prague, Kobylisy
 Graphic Design - September  2015 - June 2019 
-- Academic interests: Propagation, Advertising, Typography, Graphic Design, Drawing
+- Academic interests: Promotion, Advertising, Typography, Graphic Design, Drawing
 
 --
-#### Skills and interests
-- Adobe Photoshop - Retouch details, crop, photo size.
-- Adobe Illustrator - Logo, icons, illustrations, posters, business cards.
-- Adobe XD - Wireframes of websites.
-- Adobe InDesign - Magazines.
-- Adobe Lightroom - Photos, filters.
+### Skills and interests
+- Adobe Creative Suite - Illustrator, XD, InDesign, Lightroom, Photoshop
 - Facebook / Instagram - Stories, posts, cover photos, profile photos.
-- Microsoft Word / PowerPoint - Presentation, brief.
-- Dancing, traveling, cooking, hiking, playing games.
+- Microsoft Word / PowerPoint
+- Dancing, traveling, cooking, hiking, playing games
 
 
-- [Download CV (PDF)](cv-2021-budska.pdf)
+[Download CV (PDF)](cv-2021-budska.pdf)
