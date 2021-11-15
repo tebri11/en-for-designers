@@ -1,7 +1,7 @@
 ## Tereza Budská / 01.04.1999
 
 ### Summary
-<!-- Experienced Junior Graphic Designer with 5 years of experience and specializing in creativity. Well-versed in programs including Adobe Photoshop, Illustrator, XD, InDesign, Lightroom. -->
+Experienced Junior Graphic Designer with 5 years of experience and specializing in creativity. Well-versed in programs including Adobe Photoshop, Illustrator, XD, InDesign, Lightroom.
 
 --
 #### Address: Českobrodská 120 / 251 62 Mukařov / Česká republika
@@ -10,24 +10,24 @@
 --
 
 #### Experience
-<!-- DigitalAd s.r.o., Prague, Smíchov
+DigitalAd s.r.o., Prague, Smíchov
 Graphic Designer - June 2020 - current
-The company is in the center of Prague, but I only work externally for them. I collaborated with marketing and social media teams to design graphics. I created online banners, posts, and gifs for Baronet, Epona Interiors, Vilavin -->
+The company is in the center of Prague, but I only work externally for them. I collaborated with marketing and social media teams to design graphics. I created online banners, posts, and gifs for Baronet, Epona Interiors, Vilavin
 
-<!-- Abuco ICT, Prague, Švandovo divadlo
+Abuco ICT, Prague, Švandovo divadlo
 Graphic Designer - June 2018 - current
 It was my first job with about twenty people in Prague. Sometimes I create an original web design for clients with illustrations, icons, photos. I create online banners, posts, presentations, posters, business cards, and gifs for companies. 
-I helped devise campaigns for Doke, Woox, Dtest, CZLT. -->
+I helped devise campaigns for Doke, Woox, Dtest, CZLT. 
 
 --
 #### Education
-<!-- The University of Creative Communication, Prague, Pražského povstání
+The University of Creative Communication, Prague, Pražského povstání
 Graphic and Media Design - September 2019 - current 
-Academic interests: Typography, Digital design, Graphis Design, Drawing -->
+Academic interests: Typography, Digital design, Graphis Design, Drawing 
 
-<!-- SŠ DUKE Náhorní, Prague, Kobylisy
+SŠ DUKE Náhorní, Prague, Kobylisy
 Graphic Design - September  2015 - June 2019 
-Academic interests: Propagation, Advertising, Typography, Graphis Design, Drawing-->
+Academic interests: Propagation, Advertising, Typography, Graphis Design, Drawing
 
 --
 #### Skills and interests
