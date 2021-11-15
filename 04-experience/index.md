@@ -34,7 +34,7 @@ Graphic Design - September  2015 - June 2019
 
 --
 ### Skills and interests
-- Adobe Creative Suite - Illustrator, XD, InDesign, Lightroom, Photoshop
+- Adobe Creative Cloud - Illustrator, XD, InDesign, Lightroom, Photoshop
 - Facebook / Instagram - Stories, posts, cover photos, profile photos.
 - Microsoft Word / PowerPoint
 - Dancing, traveling, cooking, hiking, playing games
