@@ -17,7 +17,7 @@ DigitalAd s.r.o., Prague, Smíchov
 
 Abuco ICT, Prague, Švandovo divadlo
 -- Graphic Designer - June 2018 - current
-- Sometimes I create an original web design for clients with illustrations, icons, photos. I create online banners, posts, presentations, posters, business cards, and gifs for companies. 
+- I create an original web design for clients with illustrations, icons, photos. I create online banners, posts, presentations, posters, business cards, and gifs for companies. 
 - I helped devise campaigns for Doke, Woox, Dtest, CZLT. 
 
 --
