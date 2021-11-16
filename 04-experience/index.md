@@ -11,23 +11,23 @@ I am a Junior Graphic Designer with 3 years of experience. I am specializing in 
 
 ### Experience
 DigitalAd s.r.o., Prague, Smíchov
---Graphic Designer - June 2020 - current
+-- Graphic Designer - June 2020 - current
 - I collaborated with marketing and social media teams to design graphics. 
 - I created online banners, posts, and gifs for Baronet, Epona Interiors, Vilavin
 
 Abuco ICT, Prague, Švandovo divadlo
---Graphic Designer - June 2018 - current
+-- Graphic Designer - June 2018 - current
 - Sometimes I create an original web design for clients with illustrations, icons, photos. I create online banners, posts, presentations, posters, business cards, and gifs for companies. 
 - I helped devise campaigns for Doke, Woox, Dtest, CZLT. 
 
 --
 ### Education
 The University of Creative Communication, Prague, Pražského povstání
---Graphic and Media Design - September 2019 - current 
+-- Graphic and Media Design - September 2019 - current 
 - Academic interests: Typography, Digital design, Graphic Design, Drawing 
 
 SŠ DUKE Náhorní, Prague, Kobylisy
---Graphic Design - September  2015 - June 2019 
+-- Graphic Design - September  2015 - June 2019 
 - Academic interests: Promotion, Advertising, Typography, Graphic Design, Drawing
 
 --
