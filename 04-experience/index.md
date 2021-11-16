@@ -27,7 +27,7 @@ The University of Creative Communication, Prague, Pražského povstání
 -- Graphic and Media Design - September 2019 - current 
 - Academic interests: Typography, Digital design, Graphic Design, Drawing 
 
-SŠ DUKE Náhorní, Prague, Kobylisy
+DUKE Náhorní, Prague, Kobylisy
 -- Graphic Design - September  2015 - June 2019 
 - Academic interests: Promotion, Advertising, Typography, Graphic Design, Drawing
 
