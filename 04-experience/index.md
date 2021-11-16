@@ -36,6 +36,7 @@ DUKE Náhorní, Prague, Kobylisy
 - Adobe Creative Cloud - Illustrator, XD, InDesign, Lightroom, Photoshop
 - Facebook / Instagram - Stories, posts, cover photos, profile photos.
 - Microsoft Word / PowerPoint
+- Github
 
 
 [Download CV (PDF)](cv-2021-budska.pdf)
