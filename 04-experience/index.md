@@ -12,13 +12,13 @@ I am a Junior Graphic Designer with 3 years of experience. I am specializing in 
 ### Experience
 DigitalAd s.r.o., Prague, Smíchov
 -- Graphic Designer - June 2020 - current
-- I collaborated with marketing and social media teams to design graphics. 
-- I created online banners, posts, and gifs for Baronet, Epona Interiors, Vilavin
+- Collaborating with marketing and social media teams to design graphics
+- Creating online banners, posts, and gifs for Baronet, Epona Interiors, Vilavin
 
 Abuco ICT, Prague, Švandovo divadlo
 -- Graphic Designer - June 2018 - current
-- I create an original web design for clients with illustrations, icons, photos. I create online banners, posts, presentations, posters, business cards, and gifs for companies. 
-- I helped devise campaigns for Doke, Woox, Dtest, CZLT. 
+- Creating an original web design for clients with illustrations, icons, photos. I create online banners, posts, presentations, posters, business cards, and gifs for companies
+- Helped devise campaigns for Doke, Woox, Dtest, CZLT
 
 --
 ### Education
