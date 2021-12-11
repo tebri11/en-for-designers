@@ -10,4 +10,4 @@ identity.
  - Case study: [Wedding design](03-aboutness/case-study.md)
  - Impression: [My favorite portfolio pieces](02-impression/02-impression.md)
  - Character & Description: [Letter T](/01-character-description/)
- - Design story (WIP)
+ - Design story (WIP):
