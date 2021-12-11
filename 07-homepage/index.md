@@ -10,4 +10,5 @@ identity.
  - Case study: [Wedding design](03-aboutness/index.md)
  - Impression: [My favorite portfolio pieces](02-impression/02-impression.md)
  - Character & Description: [Letter T](/01-character-description/)
- - Design story (WIP):
+ - Storytelling (WIP): [Mindboard](https://app.milanote.com/1MRiqU1m4esU64?p=fh2YJbJhtSW)
+ - Extra: 
