@@ -2,8 +2,7 @@
 ## about me
 - [aboutness](03-aboutness/03-aboutness.md)
 
-## CV
- - [Download CV (PDF)](cv-2021-budska.pdf)
+ - [CV (PDF)](cv-2021-budska.pdf)
 ## work
  - Case Study: Title
  - Impression 
