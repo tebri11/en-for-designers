@@ -1,6 +1,6 @@
 # Tereza Budská
-## about
-I am a junior graphic designer from Ricany. In my free time, I like drawing, sketching, and painting whatever comes in my mind. I love cooperating with my fantasy. 
+## about me
+- [aboutness](03-aboutness/03-aboutness.md)
 
 ## CV
  - [Download CV (PDF)](cv-2021-budska.pdf)
