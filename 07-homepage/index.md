@@ -2,7 +2,7 @@
 ## 🌸 About me
 I am a Junior Graphic Designer with 3 years of experience. I am specializing in creativity, web design, and visual
 identity.
-- [Aboutness](03-aboutness.md)
+- [Aboutness](https://tebri11.github.io/en-for-designers/03-aboutness/03-aboutness)
 
  - [CV](cv-2021-budska.pdf)
 
