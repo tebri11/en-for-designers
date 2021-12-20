@@ -1,6 +1,6 @@
 ## 🌸 Voice & Tone
 
-#### When we are speaking in normal conversation, we are always adjusting our pitch and tone without even thinking about it. But during my presentation there will be times when I really want to emphasize a certain point. These important points need to be clarified so the audience understands that they are important - we can stress importance by changing the tone and inflection of voice.  
+When we are speaking in normal conversation, we are always adjusting our pitch and tone without even thinking about it. But during my presentation there will be times when I really want to emphasize a certain point. These important points need to be clarified so the audience understands that they are important - we can stress importance by changing the tone and inflection of voice.  
 
 - loud and clear voice with a nice low tone - confident and credible
 - very high pitch and speaking softly - nervous
