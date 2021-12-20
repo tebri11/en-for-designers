@@ -1,4 +1,4 @@
-## Storytelling
+## 🌸 Storytelling
 
 Why do you love what you do?
 - Sometimes design is an escape from reality for me. I love days with a creative mood, new ideas.
