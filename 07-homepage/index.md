@@ -9,5 +9,5 @@ I am a Junior Graphic Designer with 3 years of experience. I am specializing in 
  - Case study: [Wedding design](https://tebri11.github.io/en-for-designers/03-aboutness/)
  - Impression: [My favorite portfolio pieces](https://tebri11.github.io/en-for-designers/02-impression/02-impression)
  - Character & Description: [Letter T](https://tebri11.github.io/en-for-designers/01-character-description/index)
- - Storytelling (WIP): [Mindboard](https://app.milanote.com/1MRiqU1m4esU64?p=fh2YJbJhtSW)
+ - Storytelling (WIP): [Mindboard](https://tebri11.github.io/en-for-designers/06-storytelling/index)
  - Extra: [Takeaways](https://tebri11.github.io/en-for-designers/extra-takeaways/index)
