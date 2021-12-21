@@ -10,4 +10,5 @@ I am a Junior Graphic Designer with 3 years of experience. I am specializing in 
  - Impression: [My favorite portfolio pieces](https://tebri11.github.io/en-for-designers/02-impression/02-impression)
  - Character & Description: [Letter T](https://tebri11.github.io/en-for-designers/01-character-description/index)
  - Storytelling (WIP): [Storytelling](https://tebri11.github.io/en-for-designers/06-storytelling/index)
+ - Voice and tone: [Voice and tone](https://tebri11.github.io/en-for-designers/05-voice-tone/index) 
  - Extra: [Takeaways](https://tebri11.github.io/en-for-designers/extra-takeaways/index)
