@@ -2,11 +2,14 @@
 
 Tereza Budská
 
-Hi! I am a Junior Graphic Designer and I am specializing in creativity, web design, and visual identity.
+Hi! I am a Graphic Designer and I am specializing in creativity, web design, and visual identity.
+
+The first question is why did I decide to be an artist?
 
 My way started about 11 years old... 
-Since my childhood I love everything about drawing. That was the point why I decided to absolve an art course called DRAW PLANET which was in Pragues art school... 
-- This course prepared me for the exams in high school...
+At this age, I fell in love with art. I started drawing on notebooks, on desks, sometimes on the walls. I learned what spells two ordinary neutral colors can do - black and white. That was the point why I decided to absolve an art course called DRAW PLANET in Prague.
+
+So that was the reason why I decided to continue my studies at art school because This course prepared me for the exams in high school.
 
 ![image](chair.jpg)
 
