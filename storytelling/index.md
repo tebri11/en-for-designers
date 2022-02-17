@@ -11,15 +11,12 @@ At this age, I fell in love with art. I started drawing on notebooks, on desks, 
 
 So that was the reason why I decided to continue my studies at art school because. This course prepared me for the exams in high school.
 
+And here is my first picture!
+
 ![image](chair.jpg)
 
-And there is my first picture!
-
-
-
-
-
-My high school was DUKE - of Design and Art, Book Culture, and Economics Náhorní. During our studies, we had the required experience for 10 days chosen by us. I decided on a small IT company called Abuco ICT. They offered me a part-time job as a graphic designer and I took it.
+My journey continued at the DUKE high school - design and art, book culture and economics in Náhorní. Over the course of 4 years, I learned to work with watercolors, inks, pastels, etc.
+It was a very creative school.
 
 ![image](draw.jpg)
 
