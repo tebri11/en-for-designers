@@ -7,6 +7,7 @@ The first question is why did I decide to be an artist?
 My way started about 11 years old... 
 At this age, I fell in love with art. I started drawing on notebooks, on desks, sometimes on the walls. I learned what spells two ordinary neutral colors can do - black and white. That was the point why I decided to absolve an art course called DRAW PLANET in Prague. So that was the reason why I decided to continue my studies at art school because. This course prepared me for the exams in high school.
 
+In my free time, I sketched and started painting on the wall like a real painter. 
 And here is my first picture!
 
 ![image](chair.jpg)
@@ -23,7 +24,7 @@ For example, I have new icons that I created for the company.
 
 ![image](abuco.jpg)
 
-
+Now, I am here. I study at VŠKK and I am still working for Abuco ICT. I create web design, online banners, posts, visual identity, icons, illustrations, etc. for them.
 
 --
 
