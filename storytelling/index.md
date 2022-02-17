@@ -5,9 +5,7 @@ Hi! I am a Graphic Designer and I am specializing in creativity, web design, and
 The first question is why did I decide to be an artist?
 
 My way started about 11 years old... 
-At this age, I fell in love with art. I started drawing on notebooks, on desks, sometimes on the walls. I learned what spells two ordinary neutral colors can do - black and white. That was the point why I decided to absolve an art course called DRAW PLANET in Prague.
-
-So that was the reason why I decided to continue my studies at art school because. This course prepared me for the exams in high school.
+At this age, I fell in love with art. I started drawing on notebooks, on desks, sometimes on the walls. I learned what spells two ordinary neutral colors can do - black and white. That was the point why I decided to absolve an art course called DRAW PLANET in Prague. So that was the reason why I decided to continue my studies at art school because. This course prepared me for the exams in high school.
 
 And here is my first picture!
 
@@ -23,11 +21,10 @@ Now I work in this company as a creative graphic designer.
 
 ![image](abuco.jpg)
 
-Now, I am here. I study at VŠKK and I am still working for Abuco ICT. I create web design, online banners, posts, visual identity, icons, illustrations, etc. for them.
+Most often I work with online advertising, I create banners, posts, gifs, icons, and sometimes with offline advertising such as flyers, business cards, flags, posters, etc.
+For example, I have new icons that I created for the company.
 
-In the future, I would like to create my own mark called te.b.ri studio. Of course, I want to improve my skills by watching new trends.
 
-Except for art my other hobbies are dancing, listening to music and playing games. I was a cheerleader 5 years ago, for about 15 years, but the team fell apart. I tried aerobic, hip-hop, street dance… Now I am doing a shuffle dance (American dance) for fun.
 
 <!--
 
