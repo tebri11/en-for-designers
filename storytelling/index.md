@@ -8,7 +8,7 @@ My way started about 11 years old...
 At this age, I fell in love with art. I started drawing on notebooks, on desks, sometimes on the walls. I learned what spells two ordinary neutral colors can do - black and white. That was the point why I decided to absolve an art course called Draw Planet in Prague. So that was the reason why I decided to continue my studies at art school because. This course prepared me for the exams in high school.
 
 In my free time, I sketched and started painting on the wall like a real painter. 
-And here is my first picture from Draw Planet and painting on the wall!
+And there is my first picture from Draw Planet and painting on the wall!
 
 ![image](chair.jpg)
 
@@ -20,7 +20,7 @@ It was a very creative school.
 During our studies, we had to undertake the required internship for 10 days. I wrote an email to an IT company called Abuco ICT, which I stumbled upon on the Internet, and in the end, I was offered a job.
 Now I work in this company as a creative graphic designer.
 Most often I work with online advertising, I create banners, posts, gifs, icons, and sometimes with offline advertising such as flyers, business cards, flags, posters, etc.
-For example, I have new icons that I created for the company.
+There are some of the icons I created for the company.
 
 ![image](abuco.jpg)
 
