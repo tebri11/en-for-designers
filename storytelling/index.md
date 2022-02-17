@@ -21,6 +21,10 @@ And there is my first picture!
 
 My high school was DUKE - of Design and Art, Book Culture, and Economics Náhorní. During our studies, we had the required experience for 10 days chosen by us. I decided on a small IT company called Abuco ICT. They offered me a part-time job as a graphic designer and I took it.
 
+![image](draw.jpg)
+
+
+
 Now, I am here. I study at VŠKK and I am still working for Abuco ICT. I create web design, online banners, posts, visual identity, icons, illustrations, etc. for them.
 
 In the future, I would like to create my own mark called te.b.ri studio. Of course, I want to improve my skills by watching new trends.
