@@ -24,7 +24,7 @@ There are some of the icons I created for the company.
 
 ![image](abuco.jpg)
 
-Now, I am here. I study at VŠKK and I am still working for Abuco ICT. I create web design, online banners, posts, visual identity, icons, illustrations, etc. for them.
+I am here right now. I study at university and work with 3 companies.
 
 --
 
