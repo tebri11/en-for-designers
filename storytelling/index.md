@@ -21,6 +21,7 @@ It was a very creative school.
 During our studies, we had to undertake the required internship for 10 days. I wrote an email to an IT company called Abuco ICT, which I stumbled upon on the Internet, and in the end, I was offered a job.
 Now I work in this company as a creative graphic designer.
 
+![image](abuco.jpg)
 
 Now, I am here. I study at VŠKK and I am still working for Abuco ICT. I create web design, online banners, posts, visual identity, icons, illustrations, etc. for them.
 
