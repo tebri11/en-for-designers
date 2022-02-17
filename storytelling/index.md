@@ -1,7 +1,5 @@
 #  My design story
 
-Tereza Budská
-
 Hi! I am a Graphic Designer and I am specializing in creativity, web design, and visual identity.
 
 The first question is why did I decide to be an artist?
