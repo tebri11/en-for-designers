@@ -1,4 +1,4 @@
-# Title of Article/Presentation/Talk
+#  My design story
 
 Tereza Budská
 
