@@ -6,12 +6,13 @@ Hi! I am a Junior Graphic Designer and I am specializing in creativity, web desi
 
 My way started about 11 years old... 
 Since my childhood I love everything about drawing. That was the point why I decided to absolve an art course called DRAW PLANET which was in Pragues art school... 
+- This course prepared me for the exams in high school...
 
 ![image](chair.jpg)
 
 And there is my first picture!
 
-This course prepared me for the exams in high school.
+
 
 
 
