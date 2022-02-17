@@ -4,7 +4,17 @@ Tereza Budská
 
 Hi! I am a Junior Graphic Designer and I am specializing in creativity, web design, and visual identity.
 
-Since my childhood, I love everything about drawing. That was the point why I decided to absolve an art course called DRAW PLANET which was in Pragues art school. This course prepared me for the exams in high school.
+My way started about 11 years old... 
+
+Since my childhood I love everything about drawing. That was the point why I decided to absolve an art course called DRAW PLANET which was in Pragues art school... 
+And there is my first picture!
+
+This course prepared me for the exams in high school.
+
+
+
+
+
 
 My high school was DUKE - of Design and Art, Book Culture, and Economics Náhorní. During our studies, we had the required experience for 10 days chosen by us. I decided on a small IT company called Abuco ICT. They offered me a part-time job as a graphic designer and I took it.
 
