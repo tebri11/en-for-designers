@@ -25,14 +25,8 @@ There are some of the icons I created for the company.
 However, we will deviate a bit from the artistic side ...
 My great inspiration was dancing. From the age of 5 I danced various types of dance such as aerobics, street dance or cheerleaders. Thanks to this sport, I came up with many ideas. In this sport, I have relaxed from all worries and responsibilities. I felt like I was a completely different person. However, the team fell apart, but I still like to run and dance for myself...
 
-https://www.facebook.com/pavla.budska/videos/10208136510149044
-
 ![image](dance.jpg)
 
-
 Now. I'm here. I study at university and work with 3 companies. I like to go out where I gather inspiration and draw strength.
-
+Thank you for your attention!
 --
-
-5. A summary, what are the takeaways, what can the audience learn from your design story?
-    - End the journey by reconnecting to where you started, the changes, the lessons learned and leave with a personal and positive message relating back to your title.
