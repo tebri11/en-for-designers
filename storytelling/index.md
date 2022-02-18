@@ -11,6 +11,7 @@ In my free time, I sketched and started painting on the wall like a real painter
 
 ![image](chair.jpg)
 
+-
 My journey continued at the DUKE high school - design and art, book culture, and economics in Náhorní. Over the course of 4 years, I learned to work with watercolors, inks, or pastels.
 It was a very creative school.
 
@@ -22,6 +23,7 @@ There are some of the icons I created for the company.
 
 ![image](abuco.jpg)
 
+--
 However, we will deviate a bit from the artistic side … My great inspiration was dancing. From the age of 5, I danced various types of dance such as aerobics, street dance, or cheerleaders. Thanks to this sport, I came up with many ideas. In this sport, I have relaxed from all worries and responsibilities. I felt like I was a completely different person. However, the team fell apart, but I still like to run and dance for myself…
 
 ![image](dance.jpg)
