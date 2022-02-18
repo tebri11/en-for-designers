@@ -1,13 +1,13 @@
 #  My design story 👩🏼‍🎨 
 
-Hi! I am a graphic designer and I am specializing in creativity and visual identity.
+*Hi! I am a graphic designer and I am specializing in creativity and visual identity.
 
 The first question is why did I decide to be an artist?
 
 My journey started about 11 years old... At this age, I fell in love with art. I started drawing on notebooks, on desks, sometimes on the walls. I learned what spells two ordinary neutral colors can do - black and white. That was the point why I decided to absolve an art course called Draw Planet in Prague. 
 So that was the reason why I decided to continue my studies at art school because. This course prepared me for the exams in high school.
 
-In my free time, I sketched and started painting on the wall like a real painter. And there is my first picture from Draw Planet and painting on the wall!
+*In my free time, I sketched and started painting on the wall like a real painter. And there is my first picture from Draw Planet and painting on the wall!
 
 ![image](chair.jpg)
 
@@ -28,5 +28,5 @@ My great inspiration was dancing. From the age of 5 I danced various types of da
 ![image](dance.jpg)
 
 Now. I'm here. I study at university and work with 3 companies. I like to go out where I gather inspiration and draw strength.
-Thank you for your attention!
---
+*Thank you for your attention!
+
