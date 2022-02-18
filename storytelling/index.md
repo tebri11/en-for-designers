@@ -16,7 +16,7 @@ It was a very creative school.
 
 ![image](draw.jpg)
 
-During our studies, we had to undertake the required internship for 10 days. I wrote an email to an IT company called Abuco ICT, which I stumbled upon on the Internet, and in the end, I was offered a job.
+- During our studies, we had to undertake the required internship for 10 days. I wrote an email to an IT company called Abuco ICT, which I stumbled upon on the Internet, and in the end, I was offered a job.
 Now I work in this company as a creative graphic designer. Most often I work with online advertising, I create banners, posts, gifs, icons, and sometimes with offline advertising such as flyers, business cards, flags, posters.
 There are some of the icons I created for the company.
 
@@ -26,6 +26,6 @@ There are some of the icons I created for the company.
 
 ![image](dance.jpg)
 
-Now. I'm here. I study at university and work with 3 companies. I like to go out where I gather inspiration and draw strength.
+- Now. I'm here. I study at university and work with 3 companies. I like to go out where I gather inspiration and draw strength.
 Thank you for your attention!
 
