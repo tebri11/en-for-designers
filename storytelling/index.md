@@ -26,6 +26,6 @@ There are some of the icons I created for the company.
 
 ![image](dance.jpg)
 
-- Now. I'm here. I study at university and work with 3 companies. I like to go out where I gather inspiration and draw strength.
+- Now. I'm here. I study at university and work with 3 companies. I'm a girl, a cat lover. I like to go out where I gather inspiration and look for strength.
 Thank you for your attention!
 
