@@ -16,9 +16,9 @@ It was a very creative school.
 
 ![image](draw.jpg)
 
-- During our studies, we had to undertake the required internship for 10 days. I wrote an email to an IT company called Abuco ICT, which I stumbled upon on the Internet, and in the end, I was offered a job.
-Now I work in this company as a creative graphic designer. Most often I work with online advertising, I create banners, posts, gifs, icons, and sometimes with offline advertising such as flyers, business cards, flags, posters.
-There are some of the icons I created for the company.
+- During our studies, we had to complete the required 10-day internship. I wrote an email to the IT company Abuco ICT, which I came across on the Internet, and finally, I was offered a job. I now work in this company as a creative graphic designer. I most often work with online advertising, I create banners, posts, gifs, icons, and sometimes with offline advertising such as flyers, business cards, flags, posters. 
+
+There are some icons I created for the company.
 
 ![image](abuco.jpg)
 
