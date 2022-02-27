@@ -21,7 +21,9 @@ During my studies at the school in the field of graphic design and media communi
 ![image](gask1.jpg)
 
 - However, I have everything being developed so far, I am conducting analyzes and surveys. I will create a new logotype and slogan that will characterize the educational center. Next, I will create a new communication concept using offline and online advertising.
-- There is a sample of the existing logo of the education center and my new design.
+- As an example of my project, I will show you the existing logo of the training center and my new design.
+
+![image](logo.jpg)
 
 ---
 ### 🔑 Keywords
