@@ -7,7 +7,7 @@ The first question is why did I decide to be an artist?
 - My journey started at about 11 years old... At this age, I fell in love with art. I started drawing on notebooks, sometimes on the walls. I learned what magic you can do with two ordinary neutral colors - black and white. That was the point why I decided to absolve an art course called Draw Planet in Prague. 
 So that was the reason why I decided to continue my studies at art school. At the same time, this course prepared me for the exams in high school.
 
-In my free time, I sketched and started painting on the wall like a professional painter. And there is my first picture from Draw Planet and painting on the wall!
+In my free time, I sketched and started a painting on the wall like a professional painter. And there is my first picture from Draw Planet and painting on the wall!
 
 ![image](chair.jpg)
 
