@@ -26,7 +26,9 @@ There are some icons for the company, which I created.
 
 ![image](dance.jpg)
 
-- Now. I'm here. I study at university and work with 3 companies. I'm a girl, a cat lover. I like to go out where I gather inspiration and look for strength.
+- Now. I'm here. I study at university and work with 3 companies. I'm a girl, a cat lover. I like to go out where I collect inspiration and look for power.
+And my future? The future is a matter of time ... However, I want to continue what I am doing.
 
 Thank you for your attention!
+
 
