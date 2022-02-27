@@ -1,4 +1,4 @@
-## My thesis project - Education center GASK
+## My thesis project 💁🏼‍♀️ Education center GASK
 ---
 During my studies at the school in the field of graphic design and media communication, I gained a lot of experience. For this reason, I decided to accept the challenge in the field of visual and marketing communication and create a new working concept of visual communication for the education center. 
 
@@ -17,14 +17,14 @@ During my studies at the school in the field of graphic design and media communi
 This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
 
 
-### Inspiraton?
+### Inspiration?
+- 🔴 + 🟡 + 🔵
 - 
 
 ![image](gask1.jpg)
 
 ---
-### Keywords
-
+### 🔑Keywords
 - **Visual identity**
   - The new visual identity must be creative, original, eye-catching, and fun for kids.
 - **Kutná Hora**
