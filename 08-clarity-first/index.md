@@ -30,7 +30,5 @@ This gallery offers the most programs, workshops, and events for children and fa
   - The city must become a destination for visitors. It must enchant and inspire.
 - **Analysis**
   - The analysis is an essential part of my work. It will help me evaluate the advantages and disadvantages of the competitor and possible inspiration.
-- **Keyword**
-  - …
-- **Keyword**
-  - …
+- **Colors**
+  - The colors play a big role in my project. I was inspired by a learning center place.
