@@ -17,10 +17,8 @@ During my studies at the school in the field of graphic design and media communi
 This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
 
 
-
-### New visual identity and marketing communication
+### Inspiraton?
 - 
-
 
 ### Keywords
 
