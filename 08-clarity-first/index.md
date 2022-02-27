@@ -14,17 +14,18 @@ During my studies at the school in the field of graphic design and media communi
 
 ### Target group?
 - The most relevant target group selection leads through verified or collected project data.
-This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
+- This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
 
 
 ### Inspiration?
 - 🔴 + 🟡 + 🔵
-- 
+- In terms of color. My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. I used these three basic colors - red, yellow, blue. However, Kutná Hora has a flag, which also consists of red and yellow.
 
 ![image](gask1.jpg)
+- 
 
 ---
-### 🔑Keywords
+### 🔑 Keywords
 - **Visual identity**
   - The new visual identity must be creative, original, eye-catching, and fun for kids.
 - **Kutná Hora**
