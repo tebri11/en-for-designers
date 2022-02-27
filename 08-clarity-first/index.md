@@ -9,7 +9,7 @@ During my studies at the school in the field of graphic design and media communi
 
 ---
 ### My main goal?
-- My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
+- My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.🙋🏼‍♀️
 
 ### Target group?
 - The most relevant target group selection leads through verified or collected project data.
@@ -21,8 +21,8 @@ During my studies at the school in the field of graphic design and media communi
 
 ![image](gask1.jpg)
 
-- However, I have everything being developed so far, I am conducting analyzes and surveys. I will create a new logotype and slogan that will characterize the educational center. Next, I will create a new communication concept using offline and online advertising.
-- As an example of my project, I will show you the existing logo of the training center and my new design.
+- However, I have everything being developed so far, I am conducting analyzes and surveys. I created a new logotype that will characterize the educational center. Next, I will create a new communication concept using offline and online advertising.
+- As an example of my project, I will show you the existing logo of the education center and my new design. However, everything is in the process and it is possible that I will change something. 🤷🏼‍♀️
 
 ![image](logo.jpg)
 
