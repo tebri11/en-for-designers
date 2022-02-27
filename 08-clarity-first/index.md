@@ -25,7 +25,7 @@ During my studies at the school in the field of graphic design and media communi
 - However, I have everything being developed so far, I am conducting analyzes and surveys. I created a new logotype that will characterize the educational center. Next, I will create a new communication concept using offline and online advertising.
 - As an example of my project, I will show you the existing logo of the education center and my new design. However, everything is in the process and I may change something.🤷🏼‍♀️
 
-![image](logo.jpg)
+![image](logo1.jpg)
 
 ---
 ### 🔑 Keywords
