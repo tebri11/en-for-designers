@@ -9,7 +9,7 @@
 ## Summary
 During my studies at the school in the field of graphic design and media communication, I gained a lot of experience. For this reason, I decided to accept the challenge in the field of visual and marketing communication and create a new working concept of visual communication for the education center. 
 
-- The center is operated by the contributory organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. As the organization's education center does not currently have a visual and communication style, I will also create a new communication strategy.
+- The center is operated by the organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. As the organization's education center does not currently have a visual and communication style, I will also create a new communication strategy.
 
 ---
 ![image](gask.jpg)
