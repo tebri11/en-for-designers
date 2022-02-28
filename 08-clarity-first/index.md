@@ -44,6 +44,6 @@ During my studies at the school in the field of graphic design and media communi
 - **Analysis**
   - The analysis is an essential part of my work. It will help me evaluate the advantages and disadvantages of the competitor and possible inspiration.
 - **Colors**
-  - The colors play a big role in my project. I was inspired by a learning center place.
+  - The colors play a big role in my project. I was inspired by the education center place.
 - **Logotype**
   - It's an original name made up only of fonts without a pictogram or image.
