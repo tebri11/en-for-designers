@@ -35,6 +35,15 @@ During my studies at the school in the field of graphic design and media communi
 
 ![image](logo1.jpg)
 
+### What problem did the project solve?
+- H
+
+### What actions did you take to do this project?
+- H
+
+### How successful were you in solving the problem?
+- H
+
 ---
 ## Keywords
 - **Visual identity**
