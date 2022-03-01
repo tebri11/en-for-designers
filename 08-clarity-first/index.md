@@ -1,4 +1,7 @@
 ## My thesis project 💁🏼‍♀️ Education center GASK
+- GA - Gallery
+- S - Central Bohemian (Středočeský)
+- K - Region (Kraj)
 
 - [Summary](#summary)
 - [Goal](#goal)
@@ -35,14 +38,14 @@ During my studies at the school in the field of graphic design and media communi
 
 ![image](logo1.jpg)
 
-### What problem did the project solve?
-- H
+### What problem did the project solve? jaký problém řeší
+- increase visitors like kids and family, create new visual style, 
 
-### What actions did you take to do this project?
-- H
+### What actions did you take to do this project? - jaké kroky
+- they have any design and good visual communation, I do analyze, new logotype, font and marketing communationcommunation
 
-### How successful were you in solving the problem?
-- H
+### How successful were you in solving the problem? - jak úspěšný
+- everything is in the process and I may change something.
 
 ---
 ## Keywords
