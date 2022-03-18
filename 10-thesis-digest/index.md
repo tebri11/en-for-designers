@@ -33,7 +33,11 @@ findings. Less than 75 words. -->
 
 
 ## References
-Use an unordered list, arranged alphabetically by author’s surname.
+- BERAN, Vladimír, František ŠTORM, Vladimír KOLENSKÝ, Mgr. T. FASSATI. Aktualizovaný typografický manuál. [7th edition]
+- HARANTOVÁ, Lenka. Vnímání sociální reklamy vysokoškolskými studenty. [1st edition]
+- HOLLIS, Richard. Stručná historie grafického designu. [1st edition] 
+- SVĚTLÍK, Jaroslav. Reklama - teorie, koncepce a modely. [online]
+- VYSEKALOVÁ, Jitka. Psychologie reklamy. [4th extended updated edition] 
 
 ## Images
 Original figure(s) and caption(s) designed by digest author.
