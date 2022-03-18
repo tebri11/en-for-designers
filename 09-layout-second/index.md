@@ -15,7 +15,7 @@
 
 
 #### Logotype
-![image](LCGASK_logo-1)
+![image](logotype.jpg)
 
 #### Posters
 
