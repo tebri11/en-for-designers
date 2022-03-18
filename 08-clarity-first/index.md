@@ -52,8 +52,9 @@
 1. Background/importance of topic: The organization's education center does not currently have a visual and communication style, so I will create a new communication strategy.
 2. Purpose/hypothesis (thesis or statement of problem): I want to raise the profile of the education center in Kutná Hora, lure more children, activity, and traffic on social networks.
 3. Research — design/methodology/approach including procedures/data/observations: Thanks to the cooperation, the center provided me with some materials, which I will make full use of. I also focused on the competition, their social networks, websites, visual identity, and marketing communication. I'm working on visualization now.
-4. Findings (highlight outcome of research):
-5. Conclusions (significance/success of study to theory/practical/society):
+4. Findings (highlight outcome of research): I will help the center increase attendance and subconscious. I will create a new and original visual and marketing communication.
+5. Conclusions (significance/success of study to theory/practical/society): The project is still in progress. However, it would be a success to establish cooperation in the future.
+
 
 ## References
 -
