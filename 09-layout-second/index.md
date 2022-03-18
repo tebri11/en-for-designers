@@ -1,19 +1,12 @@
-# Hed (Working title of thesis)
-
-<!-- Please limit the title to **70 characters** or fewer. -->
+# Visual identity and marketing communication of an education center GASK
 
 ## Abstract
-
-A brief statement summarizing your thesis, based on language from PAR statement and key points from Clarity First in **75 words** or fewer. Remember to use academic voice.
+-
 
 ## Keywords
-
-<!-- A comma separated list of identifiable and searchable terms. -->
+- logotype, visual identity, presentation, new communication, graphic design, education center, GASK Kutná Hora, typography, marketing communication, colors
 
 query, to come, TK
 
 ## Presentation
-
-<!-- Work-in-progress thesis presetation. -->
-
-<-- Add a link to your presentation or add presentation content in Markdown here. -->
+-
