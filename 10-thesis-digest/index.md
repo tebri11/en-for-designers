@@ -1,16 +1,10 @@
-# Title: Digest: …
+# Title: Digest: Unified visual identity
 
-# Running Title: …
+# Running Title: Unified visual identity and marketing communication of an education center GASK.
 
-<!--
-A running title is an abbreviated form of the main title, usually cited at the top of each published page or left-hand text pages.
+Author Name(s): Tereza Budská
 
-If your title is already short, use your actual title. If your title is not very short, use an abbreviated version of it as the running title.
--->
-
-Author Name(s): …
-
-E-mail(s): …
+E-mail(s): terkabudska462@gmail.com
 
 Acknowledgement(s): …
 
