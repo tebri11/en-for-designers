@@ -8,7 +8,7 @@
 
 ---
 
-## Summary
+## Summary ⚡️
 - GA - Gallery, S - Central Bohemian (Středočeský), K - Region (Kraj)
 - During my studies at the school in the field of graphic design and media communication, I gained a lot of experience. For this reason, I decided to accept the challenge in the field of visual and marketing communication and create a new working concept of visual communication for the education center. 
 
@@ -31,7 +31,7 @@
 
 ---
 
-## Inspiration
+## Inspiration 💫 
 - 🔴 🟡 + 🔵
 - In terms of colors. Kutná Hora has a flag, which consists of red and yellow. These two colors are primary and I chose blue as the secondary color. And why? My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. 
 - However, my main and great inspiration is children. I want the overall visualization to be playful, funny, and engaging.
@@ -45,28 +45,28 @@
 ![image](logo.jpg)
 
 ---
-## Keywords
+## Keywords 💥
 - visual identity, analysis, new communication, graphic design, education center, GASK Kutná Hora, social media, typography, marketing, gallery, marketing communication, strategy, logotype, colors, kids, customers
 
-## Key points
+## Key points ⚡️
 1. Background/importance of topic: The organization's education center does not currently have a visual and communication style, so I will create a new communication strategy.
 2. Purpose/hypothesis (thesis or statement of problem): I want to raise the profile of the education center in Kutná Hora, lure more children, activity, and traffic on social networks.
 3. Research — design/methodology/approach including procedures/data/observations: Thanks to the cooperation, the center provided me with some materials, which I will make full use of. I also focused on the competition, their social networks, websites, visual identity, and marketing communication. I'm working on visualization now.
 4. Findings (highlight outcome of research): I will help the center increase attendance and subconscious. I will create a new and original visual and marketing communication.
 5. Conclusions (significance/success of study to theory/practical/society): The project is still in progress. However, it would be a success to establish cooperation in the future.
 
-## Warm-up
+## Warm-up 🌟
 ### Problem
 - No communication strategy of the education center.
 - According to my analysis, 80% of 150 people do not know the educational center in Kutná Hora.
 
-### Action
+### Action 💫
 - Search for foreign and Czech centers.
 - Creating my own graphs, thanks to which I got the answers to my own questions.
 - Communication with education center.
 - Creating a new visual and communication identity.
 
-### Result
+### Result ⭐️
 - Long-term cooperation with the organization in the future.
 - Quality and original project.
 - Gaining new customers who will recommend the center to their friends.
