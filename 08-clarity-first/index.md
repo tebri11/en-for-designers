@@ -62,21 +62,17 @@
 ---
 
 ## Warm-up 🌟
-### Problem
+1. Problem
 - No communication strategy of the education center.
 - According to my analysis, 80% of 150 people do not know the educational center in Kutná Hora.
 
----
-
-### Action 💫
+2. Action 💫
 - Search for foreign and Czech centers.
 - Creating my own graphs, thanks to which I got the answers to my own questions.
 - Communication with education center.
 - Creating a new visual and communication identity.
 
----
-
-### Result ⭐️
+3. Result ⭐️
 - Long-term cooperation with the organization in the future.
 - Quality and original project.
 - Gaining new customers who will recommend the center to their friends.
