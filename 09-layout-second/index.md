@@ -12,3 +12,15 @@
 
 ### Presentation
 - I present to you my newly created communication of the center.
+
+
+#### Logotype
+
+
+#### Posters
+
+
+#### Billboards
+
+
+#### Social media
