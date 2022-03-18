@@ -52,7 +52,7 @@
 
 ---
 
-## Key points ⚡️
+## Key points ⭐️
 1. Background/importance of topic: The organization's education center does not currently have a visual and communication style, so I will create a new communication strategy.
 2. Purpose/hypothesis (thesis or statement of problem): I want to raise the profile of the education center in Kutná Hora, lure more children, activity, and traffic on social networks.
 3. Research — design/methodology/approach including procedures/data/observations: Thanks to the cooperation, the center provided me with some materials, which I will make full use of. I also focused on the competition, their social networks, websites, visual identity, and marketing communication. I'm working on visualization now.
@@ -66,13 +66,13 @@
 - No communication strategy of the education center.
 - According to my analysis, 80% of 150 people do not know the educational center in Kutná Hora.
 
-2. Action 💫
+2. Action
 - Search for foreign and Czech centers.
 - Creating my own graphs, thanks to which I got the answers to my own questions.
 - Communication with education center.
 - Creating a new visual and communication identity.
 
-3. Result ⭐️
+3. Result
 - Long-term cooperation with the organization in the future.
 - Quality and original project.
 - Gaining new customers who will recommend the center to their friends.
