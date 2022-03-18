@@ -1,7 +1,4 @@
 ## My thesis project 💁🏼‍♀️ Education center GASK
-- GA - Gallery
-- S - Central Bohemian (Středočeský)
-- K - Region (Kraj)
 
 - [Summary](#summary)
 - [Inspiration](#inspiration)
@@ -13,7 +10,8 @@
 ---
 
 ## Summary
-During my studies at the school in the field of graphic design and media communication, I gained a lot of experience. For this reason, I decided to accept the challenge in the field of visual and marketing communication and create a new working concept of visual communication for the education center. 
+- GA - Gallery, S - Central Bohemian (Středočeský), K - Region (Kraj)
+- During my studies at the school in the field of graphic design and media communication, I gained a lot of experience. For this reason, I decided to accept the challenge in the field of visual and marketing communication and create a new working concept of visual communication for the education center. 
 
 - The center is operated by the organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. As the organization's education center does not currently have a visual and communication style, I will also create a new communication strategy.
 
@@ -24,7 +22,7 @@ During my studies at the school in the field of graphic design and media communi
 
 ### What actions did you take to this project?
 - I was at the GASK center a few years ago, thanks to which I know the center better. So I know this center is a great place for kids.
-- For a few months, I conducted a thorough competition analysis - what are the advantages and disadvantages. I found a lot of interesting places and centers - both foreign and in the Czech Republic. 
+- For a few months, I conducted a thorough competition analysis and surveys - what are the advantages and disadvantages. I found a lot of interesting places and centers - both foreign and in the Czech Republic. 
 
 ### How successful where you in solving the problem?
 - I think that thanks to this project, I will help the center get into the subconscious of customers. I will show what makes the center special.
@@ -35,24 +33,15 @@ During my studies at the school in the field of graphic design and media communi
 ---
 
 ## Inspiration
-- 🔴 + 🟡 + 🔵
-- In terms of colors. My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. I used these three basic colors - red, yellow, blue. However, Kutná Hora has a flag, which also consists of red and yellow.
+- 🔴 🟡 + 🔵
+- In terms of colors. Kutná Hora has a flag, which consists of red and yellow. These two colors are primary and I chose blue as the secondary color. And why? My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. 
 
 ![image](gask1.jpg)
 
-- However, I have everything being developed so far, I am conducting analyzes and surveys. I created a new logotype that will characterize the educational center. Next, I will create a new communication concept using offline and online advertising.
-- As an example of my project, I will show you the existing logo of the education center and my new design. However, everything is in the process and I may change something.🤷🏼‍♀️
+- I created a new logotype that will characterize the educational center. Next, I will create a new communication concept using offline and online advertising.
+- As an example of my project, I will show you the existing logo of the education center and my new design. However, everything is in the process and I may change something.
 
 ![image](logo1.jpg)
-
-### What problem did the project solve? jaký problém řeší
-- increase visitors like kids and family, create new visual style, 
-
-### What actions did you take to do this project? - jaké kroky
-- they have any design and good visual communation, I do analyze, new logotype, font and marketing communationcommunation
-
-### How successful were you in solving the problem? - jak úspěšný
-- everything is in the process and I may change something.
 
 ---
 ## Keywords
