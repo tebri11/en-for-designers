@@ -4,10 +4,12 @@
 - K - Region (Kraj)
 
 - [Summary](#summary)
-- [Goal](#goal)
+- [Mind Map](#mind-map)
 - [Inspiration](#inspiration)
 - [Keywords](#keywords)
-
+- [Key Points](#key-points)
+- [References](#references)
+- [Warm-Up](#warm-up)
 ---
 ## Summary
 During my studies at the school in the field of graphic design and media communication, I gained a lot of experience. For this reason, I decided to accept the challenge in the field of visual and marketing communication and create a new working concept of visual communication for the education center. 
