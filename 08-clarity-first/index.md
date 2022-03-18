@@ -19,14 +19,16 @@ During my studies at the school in the field of graphic design and media communi
 - The center is operated by the organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. As the organization's education center does not currently have a visual and communication style, I will also create a new communication strategy.
 
 ### What problems did the project solve?
+- My project is still in progress.
+- The project focuses on new and regular customers. I want to run higher activity on social networks, especially Instagram which has the highest expansion today.
 - My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
-- However, my project focuses on new and regular customers. I want to run higher activity on social networks, especially Instagram which has the highest expansion today.
 
 ### What actions did you take to this project?
-- For a few months, I conducted a thorough competition analysis. I found a lot of interesting places and centers - both foreign and in the Czech Republic.
+- I was at the GASK center a few years ago, thanks to which I know the center better.
+- For a few months, I conducted a thorough competition analysis - what are the advantages and disadvantages. I found a lot of interesting places and centers - both foreign and in the Czech Republic. 
 
 ### How successful where you in solving the problem?
--
+- 
 
 ---
 ![image](gask.jpg)
