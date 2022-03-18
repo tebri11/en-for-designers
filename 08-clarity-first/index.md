@@ -14,7 +14,6 @@
 
 - The center is operated by the organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. 
 
----
 ![image](gask.jpg)
 
 ---
