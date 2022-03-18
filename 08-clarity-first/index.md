@@ -20,10 +20,10 @@ During my studies at the school in the field of graphic design and media communi
 
 ### What problems did the project solve?
 - My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
-- - 
+- However, my project focuses on new and regular customers. I want to run higher activity on social networks, especially Instagram which has the highest expansion today.
 
 ### What actions did you take to this project?
--
+- For a few months, I conducted a thorough competition analysis. I found a lot of interesting places and centers - both foreign and in the Czech Republic.
 
 ### How successful where you in solving the problem?
 -
