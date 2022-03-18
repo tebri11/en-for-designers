@@ -6,7 +6,7 @@
 ---
 
 ### Keywords
-- logotype, visual identity, presentation, new communication, graphic design, education center, GASK Kutná Hora, typography, marketing communication, colors
+- colors, education center, GASK Kutná Hora, graphic design, logotype, marketing communication, new communication, presentation, typography, visual identity
 
 ---
 
