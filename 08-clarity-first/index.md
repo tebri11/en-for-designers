@@ -49,7 +49,7 @@
 
 ---
 ## Keywords 💥
-- visual identity, analysis, new communication, graphic design, education center, GASK Kutná Hora, social media, typography, marketing, gallery, marketing communication, strategy, logotype, colors, kids, customers
+- analysis, colors, communication, customers, education center, gallery, GASK Kutná Hora, graphic design, identity, kids, logotype, marketing, strategy, social media, typography, visualization
 
 ---
 
