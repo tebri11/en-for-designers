@@ -4,7 +4,6 @@
 - K - Region (Kraj)
 
 - [Summary](#summary)
-- [Mind Map](#mind-map)
 - [Inspiration](#inspiration)
 - [Keywords](#keywords)
 - [Key Points](#key-points)
@@ -19,25 +18,19 @@ During my studies at the school in the field of graphic design and media communi
 - The center is operated by the organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. As the organization's education center does not currently have a visual and communication style, I will also create a new communication strategy.
 
 ### What problems did the project solve?
-- My project is still in progress.
-- The project focuses on new and regular customers. I want to run higher activity on social networks, especially Instagram which has the highest expansion today.
 - My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
+- This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
+- The project is still in process. I want to run higher activity on social networks, especially Instagram which has the highest expansion today.
 
 ### What actions did you take to this project?
-- I was at the GASK center a few years ago, thanks to which I know the center better.
+- I was at the GASK center a few years ago, thanks to which I know the center better. So I know this center is a great place for kids.
 - For a few months, I conducted a thorough competition analysis - what are the advantages and disadvantages. I found a lot of interesting places and centers - both foreign and in the Czech Republic. 
 
 ### How successful where you in solving the problem?
-- 
+- I think that thanks to this project, I will help the center get into the subconscious of customers. I will show what makes the center special.
 
 ---
 ![image](gask.jpg)
-
----
-
-### Target group
-- The most relevant target group selection leads through verified or collected project data.
-- This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
 
 ---
 
