@@ -24,8 +24,7 @@ Word count: <!-- Digests should be approximately 500 words. Everything below, in
 findings. Less than 75 words. -->
 
 ## Keywords
-
-<!-- comma separated terms, all in lowercase letters, and arranged alphabetically  -->
+- analysis, colors, communication, customers, design, education center, gallery, GASK Kutná Hora, graphic design, identity, kids, logotype, marketing, strategy, social media, typography, visualization
 
 ## Main Text
 
