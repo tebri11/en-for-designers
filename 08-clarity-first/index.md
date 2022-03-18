@@ -35,6 +35,7 @@
 ## Inspiration
 - 🔴 🟡 + 🔵
 - In terms of colors. Kutná Hora has a flag, which consists of red and yellow. These two colors are primary and I chose blue as the secondary color. And why? My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. 
+- However, my main and great inspiration is children. I want the overall visualization to be playful, funny, and engaging.
 
 ![image](gask1.jpg)
 
@@ -45,6 +46,9 @@
 
 ---
 ## Keywords
+- visual identity, analyze, new communication, graphic design, education center, GASK Kutná Hora, social media, typography, marketing, gallery, marketing communication, strategy
+
+## Key points
 - **Visual identity**
   - The new visual identity must be creative, original, eye-catching, and fun for kids.
 - **Kutná Hora**
@@ -55,5 +59,12 @@
   - The colors play a big role in my project. I was inspired by the education center place.
 - **Logotype**
   - It's an original name made up only of fonts without a pictogram or image.
+
+## References
+-
+
+## Warm-up
+-
+
 
 
