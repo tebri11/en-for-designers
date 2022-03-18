@@ -38,10 +38,11 @@
 
 ![image](gask1.jpg)
 
-- I created a new logotype that will characterize the educational center. Next, I will create a new communication concept using offline and online advertising.
-- As an example of my project, I will show you the existing logo of the education center and my new design. However, everything is in the process and I may change something.
+- I created a new logotype GASK that will characterize the educational center. My primary goal was to create a logotype that will create simple communication. The word ASK will therefore accompany us throughout the communication and thanks to that I will create headlines with questions.
+- Next, I will create a new communication concept using offline and online advertising.
+- As an example of my project, I will show you the existing logo of the education center and my new design. But everything is in the process, maybe I'll change something and I'll show you what I created later.
 
-![image](logo1.jpg)
+![image](logo.jpg)
 
 ---
 ## Keywords
