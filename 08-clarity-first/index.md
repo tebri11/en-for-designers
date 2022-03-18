@@ -14,6 +14,11 @@
 
 - The center is operated by the organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. 
 
+---
+![image](gask.jpg)
+
+---
+
 ### What problems did the project solve?
 - My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
 - This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
@@ -25,9 +30,6 @@
 
 ### How successful where you in solving the problem?
 - I think that thanks to this project, I will help the center get into the subconscious of customers. I will show what makes the center special.
-
----
-![image](gask.jpg)
 
 ---
 
@@ -48,6 +50,8 @@
 ## Keywords 💥
 - visual identity, analysis, new communication, graphic design, education center, GASK Kutná Hora, social media, typography, marketing, gallery, marketing communication, strategy, logotype, colors, kids, customers
 
+---
+
 ## Key points ⚡️
 1. Background/importance of topic: The organization's education center does not currently have a visual and communication style, so I will create a new communication strategy.
 2. Purpose/hypothesis (thesis or statement of problem): I want to raise the profile of the education center in Kutná Hora, lure more children, activity, and traffic on social networks.
@@ -55,16 +59,22 @@
 4. Findings (highlight outcome of research): I will help the center increase attendance and subconscious. I will create a new and original visual and marketing communication.
 5. Conclusions (significance/success of study to theory/practical/society): The project is still in progress. However, it would be a success to establish cooperation in the future.
 
+---
+
 ## Warm-up 🌟
 ### Problem
 - No communication strategy of the education center.
 - According to my analysis, 80% of 150 people do not know the educational center in Kutná Hora.
+
+---
 
 ### Action 💫
 - Search for foreign and Czech centers.
 - Creating my own graphs, thanks to which I got the answers to my own questions.
 - Communication with education center.
 - Creating a new visual and communication identity.
+
+---
 
 ### Result ⭐️
 - Long-term cooperation with the organization in the future.
