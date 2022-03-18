@@ -4,7 +4,6 @@
 - [Inspiration](#inspiration)
 - [Keywords](#keywords)
 - [Key Points](#key-points)
-- [References](#references)
 - [Warm-Up](#warm-up)
 
 ---
@@ -55,12 +54,21 @@
 4. Findings (highlight outcome of research): I will help the center increase attendance and subconscious. I will create a new and original visual and marketing communication.
 5. Conclusions (significance/success of study to theory/practical/society): The project is still in progress. However, it would be a success to establish cooperation in the future.
 
-
-## References
--
-
 ## Warm-up
--
+### Problem
+- No communication strategy of the education center.
+- According to my analysis, 80% of 150 people do not know the educational center in Kutná Hora.
+
+### Action
+- Search for foreign and Czech centers.
+- Creating my own graphs, thanks to which I got the answers to my own questions.
+- Communication with education center.
+- Creating a new visual and communication identity.
+
+### Result
+- Long-term cooperation with the organization in the future.
+- Quality and original project.
+- Gaining new customers who will recommend the center to their friends.
 
 
 
