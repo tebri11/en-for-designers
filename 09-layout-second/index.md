@@ -13,14 +13,24 @@
 ### Presentation
 - I present to you my newly created communication of the center.
 
+#### Inspiration
+-
+![image](7.jpg)
+![image](0.jpg)
 
 #### Logotype
-![image](logotype.jpg)
+-
+![image](4.jpg)
+![image](5.jpg)
+![image](6.jpg)
 
 #### Posters
-
+![image](2.jpg)
 
 #### Billboards
-
+-
+![image](1.jpg)
+![image](3.jpg)
 
 #### Social media
+-
