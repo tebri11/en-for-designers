@@ -25,7 +25,7 @@
 
 #### Slogan
 - My goal was to create a slogan that describes what the center offers us. 
-- What do they offer? How do they present? What do they say? 
+- ,,Center of fun"
 ![image](8.jpg)
 ![image](6.jpg)
 
