@@ -22,7 +22,7 @@
 
 #### Logotype
 - I created a new logotype GASK that will characterize the educational center. My primary goal was to create a logotype that will create simple communication. The word ASK will accompany us throughout the communication.
-![image](4.jpg)
+![image](9.jpg)
 ![image](5.jpg)
 
 #### Slogan
