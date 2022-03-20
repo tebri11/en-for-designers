@@ -14,15 +14,19 @@
 - I present to you my newly created communication of the center.
 
 #### Inspiration
+- I chose 3 basic colors - yellow, blue, red.
+- My great inspiration was a climbing wall for children and the flag of Kutná Hora. 
 - My main and great inspiration are children. I want the overall visualization to be playful, funny, and engaging.
-- My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. 
 ![image](0.jpg)
 ![image](7.jpg)
 
 #### Logotype
--
+- I created a new logotype GASK that will characterize the educational center. My primary goal was to create a logotype that will create simple communication. The word ASK will accompany us throughout the communication.
 ![image](4.jpg)
 ![image](5.jpg)
+
+#### Slogan
+![image](8.jpg)
 ![image](6.jpg)
 
 #### Posters
