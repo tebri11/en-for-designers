@@ -16,8 +16,8 @@
 #### Inspiration
 - My main and great inspiration are children. I want the overall visualization to be playful, funny, and engaging.
 - My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. 
-![image](7.jpg)
 ![image](0.jpg)
+![image](7.jpg)
 
 #### Logotype
 -
