@@ -19,7 +19,7 @@
 ---
 
 ### What problems did the project solve?
-- My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
+- My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the gallery. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
 - This gallery offers the most programs, workshops, and events for children and families. So I decided to focus on the lower age category, thanks to their offer for children and youth.
 - The project is still in process. I want to run higher activity on social networks, especially Instagram which has the highest expansion today.
 
