@@ -14,7 +14,8 @@
 - I present to you my newly created communication of the center.
 
 #### Inspiration
--
+- My main and great inspiration is children. I want the overall visualization to be playful, funny, and engaging.
+- My great inspiration was a climbing wall for children. The climbing wall was created based on a work of art by artist Piet Mondrian. 
 ![image](7.jpg)
 ![image](0.jpg)
 
