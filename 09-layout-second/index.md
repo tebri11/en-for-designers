@@ -39,6 +39,7 @@
 ![image](ooh3.jpg)
 
 #### Social media
+- For example, Instagram - I created four posts that describe what the visualization should look like.
 ![image](aj.jpg)
 ![image](ig.jpg)
 - Maybe will be some changes. My project is mostly focused on marketing strategy and I create visualization at the last minute. 
