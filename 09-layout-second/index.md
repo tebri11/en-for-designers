@@ -14,7 +14,7 @@
 #### Inspiration
 - I chose 3 basic colors - yellow, blue, red.
 - My great inspiration was a climbing wall for children and the flag of Kutná Hora. 
-- My main and great inspiration are children. I want the overall visualization to be playful, funny, and engaging.
+- My main and great inspiration are children. I want the overall visualization to be playful and funny.
 ![image](0.jpg)
 ![image](7.jpg)
 
