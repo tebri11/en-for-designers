@@ -35,7 +35,7 @@
 ![image](slogan.jpg)
 
 #### Posters
-![image](ooh2.jpg)
+![image](mockup.jpg)
 
 #### Billboards
 ![image](ooh1.jpg)
