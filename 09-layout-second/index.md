@@ -28,7 +28,6 @@
 - My goal was to create a slogan that describes what the center offers us. 
 - ,,Center of fun"
 ![image](slogan1.jpg)
-- Each color has justification.
 - 🔵 for family, 🟡 for kids, 🔴 for school
 ![image](slogan.jpg)
 
