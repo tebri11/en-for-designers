@@ -19,7 +19,7 @@
 ![image](7.jpg)
 
 #### Logotype
-- I created a new logotype GASK that will characterize the educational center. My primary goal was to create a logotype that will create simple communication. The word ASK will accompany us throughout the communication. 
+- I created a new logotype GASK that will characterize the education center. My primary goal was to create a logotype that will create simple communication. The word ASK will accompany us throughout the communication. 
 - I created 3 variants of logotypes that characterize certain programs.
 ![image](9.jpg)
 ![image](5.jpg)
@@ -28,6 +28,7 @@
 - My goal was to create a slogan that describes what the center offers us. 
 - ,,Center of fun"
 ![image](slogan1.jpg)
+- Next, we assign the selected program to the slogan.
 - 🔵 for family, 🟡 for kids, 🔴 for school
 ![image](slogan.jpg)
 
