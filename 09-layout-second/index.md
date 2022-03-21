@@ -29,9 +29,7 @@
 - ,,Center of fun"
 ![image](slogan1.jpg)
 - Each color has justification.
-- 🔵 for family
-- 🟡 for kids
-- 🔴 for school
+- 🔵 for family, 🟡 for kids, 🔴 for school
 ![image](slogan.jpg)
 
 #### Posters
