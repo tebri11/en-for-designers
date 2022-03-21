@@ -33,9 +33,7 @@
 ![image](2.jpg)
 
 #### Billboards
--
 ![image](1.jpg)
 ![image](3.jpg)
 
 #### Social media
--
