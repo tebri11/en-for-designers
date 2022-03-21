@@ -9,11 +9,14 @@ E-mail(s): terkabudska462@gmail.com
 Acknowledgement(s): MgA. Jan Kolář ???
 
 Data Accessibility/Availability Statement:
-The data that support the findings of this study are openly available in:
-- https://www.gask.cz/cs
-- https://encyklopedie.soc.cas.cz/w/Komunikace_masová
-- https://unie-grafickeho-designu.cz/vlastnosti-dobreho-loga-obsahly-clanek/
-- https://destinace.kutnahora.cz/d/jezuitska-kolej-gask
+The data that support the findings of this study are openly available in...
+- VALIÁNOVÁ, Nikola. Vizuální identita značky je důležitá. Proč? Blog.socialpark.cz [online]. 2020, https://blog.socialpark.cz/2020/06/24/vizualni-identita-znacky-je-dulezita-proc/
+- GASK - Galerie Středočeského kraje. Gask.cz [online]. 2021, https://www.gask.cz/cs
+- VÍTOVÁ, Šárka. Sociologická encyklopedie. Encyklopedie.soc.cas.cz [online]. 2020, https://encyklopedie.soc.cas.cz/w/Komunikace_masová
+- TIPPMAN, Jan. Vlastnosti dobrého loga. Unie-grafickeho-designu.cz [online]. 2012, https://unie-grafickeho-designu.cz/vlastnosti-dobreho-loga-obsahly-clanek/
+- Jezuitská kolej. Destinace.kutnahora.cz [online]. 2021, https://destinace.kutnahora.cz/d/jezuitska-kolej-gask
+- Manipulace (psychologie)/Barvy v reklamě. Cs.wikiversity.org [online]. 2019, https://cs.wikiversity.org/wiki/Manipulace_(psychologie)/Barvy_v_reklamě
+- Statistiky využití sociálních sítí: Kolik lidí používá sociální média v roce 2021? Lerstudio.cz [online] 2021, https://lerstudio.cz/statistiky-vyuziti-socialnich-siti-kolik-lidi-pouziva-socialni-media-v-roce-2021
 
 Word count: ??? - Digests should be approximately 500 words.
 
@@ -28,17 +31,18 @@ Word count: ??? - Digests should be approximately 500 words.
 - analysis, colors, communication, customers, design, education center, gallery, GASK Kutná Hora, graphic design, identity, kids, logotype, marketing, strategy, social media, typography, visualization
 
 ### Main Text
-1. During my studies at the school in the field of graphic design and media communication, I gained a lot of experience. For this reason, I decided to accept the challenge in the field of visual and marketing communication and create a new working concept of visual communication for the education center. The center is operated by the organization Gallery of the Central Bohemian Region in Kutná Hora. The center was established to understand and bring contemporary art to the public as a natural way of life. My goal is to create visual communication and strategic solution for the education center GASK in Kutná Hora and at the same time to raise attendance of the Gallery of the Central Bohemian Region. At the same time, I want to raise the profile of the education center, to build a positive public attitude towards this place so that the GASK organization becomes a new refuge and visiting the place.
+???
+1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
 2. Summary of original article’s methods and results.
-3. Further discussion on significance of findings.
-4. Discussion connecting this work to other studies – provides added value through citations not included in original study.
-
+3. Further discussion on the significance of findings.
+4. Discussion connecting this work to other studies – provides added value through citations not included in the original study.
 
 ### References
 - BERAN, Vladimír, František ŠTORM, Vladimír KOLENSKÝ, Mgr. T. FASSATI. Aktualizovaný typografický manuál. [7th edition]
 - HARANTOVÁ, Lenka. Vnímání sociální reklamy vysokoškolskými studenty. [1st edition]
 - HOLLIS, Richard. Stručná historie grafického designu. [1st edition] 
-- SVĚTLÍK, Jaroslav. Reklama - teorie, koncepce a modely. [online]
+- SVĚTLÍK, Jaroslav. Reklama - teorie, koncepce a modely. [online], http://www.marketingsvetlik.cz
+- SVĚTLÍK, Jaroslav. Marketing - cesta k trhu. [online], http://www.marketingsvetlik.cz
 - VYSEKALOVÁ, Jitka. Psychologie reklamy. [4th extended updated edition] 
 
 ### Images
