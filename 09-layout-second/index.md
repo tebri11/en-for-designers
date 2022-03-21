@@ -27,17 +27,19 @@
 - My goal was to create a slogan that describes what the center offers us. 
 - ,,Center of fun"
 ![image](8.jpg)
+- 🟡 for kids
+- 🔵 for family
+- 🔴 for school
 ![image](6.jpg)
 
 #### Posters
 ![image](2.jpg)
 
 #### Billboards
-- 
 ![image](1.jpg)
 ![image](3.jpg)
 
 #### Social media
--
-![image](ig.jpg)
 ![image](aj.jpg)
+![image](ig.jpg)
+
