@@ -27,12 +27,12 @@
 #### Slogan
 - My goal was to create a slogan that describes what the center offers us. 
 - ,,Center of fun"
-![image](8.jpg)
+![image](slogan1.jpg)
 - Each color has justification.
-- 🟡 for kids
 - 🔵 for family
+- 🟡 for kids
 - 🔴 for school
-![image](6.jpg)
+![image](slgan.jpg)
 
 #### Posters
 ![image](2.jpg)
