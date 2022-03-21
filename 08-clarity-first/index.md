@@ -45,7 +45,7 @@
 - Next, I will create a new communication concept using offline and online advertising.
 - As an example of my project, I will show you the existing logo of the education center and my new design. But everything is in the process, maybe I'll change something and I'll show you what I created later.
 
-![image](logo.jpg)
+![image](logo2.jpg)
 
 ---
 ## Keywords 💥
