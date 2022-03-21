@@ -40,7 +40,7 @@
 ![image](ooh3.jpg)
 
 #### Social media
-- For example, Instagram - I created four posts that describe what the visualization should look like.
+- For example, Instagram - I created four posts that describe what the structure should look like.
 ![image](aj.jpg)
 - There is the visualization of social networks.
 ![image](ig.jpg)
