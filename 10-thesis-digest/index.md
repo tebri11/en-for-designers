@@ -40,4 +40,28 @@ findings. Less than 75 words. -->
 - VYSEKALOVÁ, Jitka. Psychologie reklamy. [4th extended updated edition] 
 
 ### Images
-Original figure(s) and caption(s) designed by digest author.
+- I created a new logotype GASK that will characterize the education center. My primary goal was to create a logotype that will create simple communication. The word ASK will accompany us throughout the communication. 
+- I created 3 variants of logotypes that characterize certain programs.
+![image](9.jpg)
+![image](5.jpg)
+
+#### Slogan
+- My goal was to create a slogan that describes what the center offers us. 
+- ,,Center of fun"
+![image](slogan1.jpg)
+- Next, we assign the selected program to the slogan.
+- 🔵 for family, 🟡 for kids, 🔴 for school
+![image](slogan.jpg)
+
+#### Posters
+![image](mockup.jpg)
+
+#### Billboards
+![image](ooh1.jpg)
+![image](ooh3.jpg)
+
+#### Social media
+- For example, Instagram - I created four posts that describe what the structure should look like.
+- There is the visualization of social networks.
+![image](ig.jpg)
+
