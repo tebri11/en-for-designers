@@ -1,4 +1,4 @@
-## 🟥  Title: Digest: Unified visual identity and marketing communication of an education center GASK.
+## 🟥 Title: Digest: Unified visual identity and marketing communication of an education center GASK.
 
 ## 🟨 Running Title: Unified visual identity 
 
@@ -6,21 +6,23 @@ Author Name(s): Tereza Budská
 
 E-mail(s): terkabudska462@gmail.com
 
-Acknowledgement(s): …
+Acknowledgement(s): MgA. Jan Kolář ???
 
-Data Accessibility/Availability Statement: There is no data archived.
+Data Accessibility/Availability Statement:
+The data that support the findings of this study are openly available in:
+- https://www.gask.cz/cs
+- https://encyklopedie.soc.cas.cz/w/Komunikace_masová
+- https://unie-grafickeho-designu.cz/vlastnosti-dobreho-loga-obsahly-clanek/
+- https://destinace.kutnahora.cz/d/jezuitska-kolej-gask
 
-See https://www.cambridge.org/core/services/authors/open-data/data-availability-statements
-
-Word count: Digests should be approximately 500 words. Everything below, including headings, image captions, etc., except references. -->
+Word count: ??? - Digests should be approximately 500 words.
 
 - - -
 
-## Digest:
+## Digest: Unified visual identity 
 
 ### Abstract
-Abstract that introduces the question being investigated by the study and briefly summarizes the
-findings. Less than 75 words. -->
+- ??? - Less than 75 words.
 
 ### Keywords
 - analysis, colors, communication, customers, design, education center, gallery, GASK Kutná Hora, graphic design, identity, kids, logotype, marketing, strategy, social media, typography, visualization
