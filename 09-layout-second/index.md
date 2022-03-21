@@ -32,7 +32,7 @@
 - 🔵 for family
 - 🟡 for kids
 - 🔴 for school
-![image](slgan.jpg)
+![image](slogan.jpg)
 
 #### Posters
 ![image](2.jpg)
