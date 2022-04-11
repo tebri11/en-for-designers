@@ -36,16 +36,17 @@ My main goal is to create visual communication and strategic solution for the GA
 
 ### Images
 #### Logotype ASK
-- I created a new logotype ASK that will characterize the education center. My primary goal was to create a logotype that will create simple communication. The word ASK will accompany us throughout the communication.
+- I created a new logotype ASK that will characterize the education center. My primary goal was to create a logotype that will create simple communication. The word ASK and ANSWER will accompany us throughout the communication.
 ![image](logo.jpg)
 
 #### Education Center ASK
-- The first concept is the design of outdoor advertising at the ASK education center. Each piece of information brings with it an important message that informs about an interesting activity, or some interesting thing.
+- The first concept is the design of outdoor advertising, which introduces the education center. Each piece of information brings with it an important message that informs about an interesting activity, or some interesting thing. 
 ![image](1.jpg)
 ![image](2.jpg)
 
 #### ASK Programs
-- The important part is of individual programs of the education center ASK, using printed advertising.
+- It is also important to present the individual programs that the center offers.
+- ASK - kids / family / school
 ![image](3.1.jpg)
 
 #### ASK Kids
