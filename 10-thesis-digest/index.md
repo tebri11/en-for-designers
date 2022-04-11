@@ -36,25 +36,27 @@ My main goal is to create visual communication and strategic solution for the GA
 
 ### Images
 #### Logotype ASK
-- lorem ipsum
+- I created a new logotype ASK that will characterize the education center. My primary goal was to create a logotype that will create simple communication. The word ASK will accompany us throughout the communication.
 ![image](logo.jpg)
 
 #### Education Center ASK
-- lorem ipsum
+- The first concept is the design of outdoor advertising at the ASK education center. Each piece of information brings with it an important message that informs about an interesting activity, or some interesting thing.
 ![image](1.jpg)
 ![image](2.jpg)
 
 #### ASK Programs
+- The important part is of individual programs of the education center ASK, using printed advertising.
 ![image](3.1.jpg)
 
 #### ASK Kids
-- lorem ipsum
+- important points the for kids - playful, fun, colorful, cartoon
 ![image](4.jpg)
 
 #### ASK Family
-- lorem ipsum
+- important points for the family-friendly, love, blue, sincerity
 ![image](5.jpg)
 
 #### ASK School
+- important points for the school - education, friendship, red, inspiration, concentration
 - still in process
 
