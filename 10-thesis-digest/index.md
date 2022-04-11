@@ -46,9 +46,10 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### Programs
 - It is also important to present the individual programs that the center offers. Posters are the main advertising medium.
-- ASK - family ,,Shall we take daddy with us?"
-- ASK - school ,,Do I have to use a ruler?"
-- ASK - kids ,,Which color is the right one?"
+- ASK FAMILY ,,Shall we take daddy with us?"
+- ASK SCHOOL ,,Do I have to use a ruler?"
+- ASK KIDS ,,Which color is the right one?"
+- Every headline has a reason. He characterizes his program.
 ![image](3.1.jpg)
 
 #### ASK Kids
