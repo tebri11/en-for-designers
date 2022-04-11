@@ -8,15 +8,7 @@ E-mail(s): terkabudska462@gmail.com
 
 Acknowledgement(s): I would like to take this opportunity to thank my supervisor for my bachelor's thesis, Mr. MgA. Jan Kolář, for his guidance, advice, and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials and materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
 
-Data Accessibility/Availability Statement:
-The data that support the findings of this study are openly available in...
-- VALIÁNOVÁ, Nikola. Vizuální identita značky je důležitá. Proč? Blog.socialpark.cz [online]. 2020, https://blog.socialpark.cz/2020/06/24/vizualni-identita-znacky-je-dulezita-proc/
-- GASK - Galerie Středočeského kraje. Gask.cz [online]. 2021, https://www.gask.cz/cs
-- VÍTOVÁ, Šárka. Sociologická encyklopedie. Encyklopedie.soc.cas.cz [online]. 2020, https://encyklopedie.soc.cas.cz/w/Komunikace_masová
-- TIPPMAN, Jan. Vlastnosti dobrého loga. Unie-grafickeho-designu.cz [online]. 2012, https://unie-grafickeho-designu.cz/vlastnosti-dobreho-loga-obsahly-clanek/
-- Jezuitská kolej. Destinace.kutnahora.cz [online]. 2021, https://destinace.kutnahora.cz/d/jezuitska-kolej-gask
-- Manipulace (psychologie)/Barvy v reklamě. Cs.wikiversity.org [online]. 2019, https://cs.wikiversity.org/wiki/Manipulace_(psychologie)/Barvy_v_reklamě
-- Statistiky využití sociálních sítí: Kolik lidí používá sociální média v roce 2021? Lerstudio.cz [online] 2021, https://lerstudio.cz/statistiky-vyuziti-socialnich-siti-kolik-lidi-pouziva-socialni-media-v-roce-2021
+Data Accessibility/Availability Statement: There is no data archived.
 
 Word count: ??? - Digests should be approximately 500 words.
 
@@ -25,17 +17,16 @@ Word count: ??? - Digests should be approximately 500 words.
 ## Digest: Unified visual identity 
 
 ### Abstract
-- ??? - Less than 75 words.
+- The bachelor's thesis deals with the creation of a communication strategy and visual identity for the GASK Education center in Kutná Hora. The thesis contains an explanation of basic concepts such as visual identity, logotype,  color, marketing communication, target group, means of communication, and strategy.  Finally, it describes the creation of a new unified communication concept, which helps to create a memorable image of the center.
 
 ### Keywords
 - analysis, colors, communication, customers, design, education center, gallery, GASK Kutná Hora, graphic design, identity, kids, logotype, marketing, strategy, social media, typography, visualization
 
 ### Main Text
-???
-1. Introduction that puts the research in a broader context and provides added value through citations not included in the original article.
-2. Summary of original article’s methods and results.
-3. Further discussion on the significance of findings.
-4. Discussion connecting this work to other studies – provides added value through citations not included in the original study.
+The center was established to understand and bring contemporary art to the audience. As the organization's teaching center does not currently have a comprehensive visual and communication style, I will also work on creating a new communication strategy.
+The bachelor thesis is divided into the theoretical and practical parts. First of all, I will describe and explain the theoretical background that is necessary for the practical part of the bachelor's thesis, I will also analyze the techniques and tools used.
+In the practical part, I analyze the current state of the researched teaching center and describe my design of marketing and visual communication.
+My main goal is to create visual communication and strategic solution for the GASK teaching center in Kutná Hora and at the same time to raise awareness of the existence of the Central Bohemian Region Gallery. At the same time, I want to raise the profile and raise the teaching center, to build positive public relations with this place so that the GASK organization becomes a new refuge and visit the place.
 
 ### References
 - BERAN, Vladimír, František ŠTORM, Vladimír KOLENSKÝ, Mgr. T. FASSATI. Aktualizovaný typografický manuál. [7th edition]
