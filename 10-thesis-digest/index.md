@@ -40,12 +40,12 @@ My main goal is to create visual communication and strategic solution for the GA
 ![image](logo.jpg)
 
 #### Education Center ASK
-- The first concept is the design of outdoor advertising, which introduces the education center. Each piece of information brings with it an important message that informs about an interesting activity, or some interesting thing. 
+- The first concept is the design of outdoor advertising (Citylights and Billboards), which introduces the education center. Each piece of information brings with it an important message that informs about an interesting activity, or some interesting thing. 
 ![image](1.jpg)
 ![image](2.jpg)
 
 #### Programs
-- It is also important to present the individual programs that the center offers.
+- It is also important to present the individual programs that the center offers. Posters are the main advertising medium.
 - ASK - family ,,Shall we take daddy with us?"
 - ASK - school ,,Do I have to use a ruler?"
 - ASK - kids ,,Which color is the right one?"
@@ -53,13 +53,15 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### ASK Kids
 - important points - playful, fun, colorful, sketch
+- For the ASK KIDS concept, I will also use outdoor advertisements (Citylights) and posters that are placed indoors. (toy store, children's parks, kindergartens...)
 ![image](4.jpg)
 
 #### ASK Family
-- important points - friendly, love, blue, honest
+- important points - friendly, love, blue color, purity, honest
+- For the ASK FAMILY concept, I will also use outdoor advertisements (Billboards) and social media. (I'll add more images later - still in process) 
 ![image](5.jpg)
 
 #### ASK School
-- important points - education, friendly, red, inspiration, concentration
+- important points - education, friendly, red color, inspiration, concentration
 - still in process...:)
 
