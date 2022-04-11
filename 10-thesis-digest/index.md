@@ -45,7 +45,7 @@ My main goal is to create visual communication and strategic solution for the GA
 ![image](2.jpg)
 
 #### ASK Programs
-![image](3.jpg)
+![image](3.1.jpg)
 
 #### ASK Kids
 - lorem ipsum
