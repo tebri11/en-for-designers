@@ -10,7 +10,7 @@ Acknowledgement(s): I would like to take this opportunity to thank my supervisor
 
 Data Accessibility/Availability Statement: There is no data archived.
 
-Word count: ???
+Word count: 508
 
 - - -
 
@@ -46,9 +46,7 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### Programs
 - It is also important to present the individual programs that the center offers. Posters are the main advertising medium.
-- ASK FAMILY ,,Shall we take daddy with us?"
-- ASK SCHOOL ,,Do I have to use a ruler?"
-- ASK KIDS ,,Which color is the right one?"
+- for example: ASK FAMILY ,,Shall we take daddy with us?"
 - Every headline has a reason, that characterizes his program.
 ![image](3.1.jpg)
 
@@ -59,7 +57,7 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### ASK Family
 - important points - friendly, love, blue color, purity, honest
-- The overall visual and communication style must look pleasant, and characteristic in a way. For the ASK FAMILY concept, I will also use outdoor advertisements (Billboards) and social media. (I'll add more images later - still in process) 
+- The overall visual and communication style must look pleasant, and characteristic in a way. For the ASK FAMILY concept, I will also use outdoor advertisements (Billboards).
 ![image](5.jpg)
 
 #### ASK School
