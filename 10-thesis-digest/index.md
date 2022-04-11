@@ -1,6 +1,6 @@
-## 🟥 Title: Digest: Unified visual identity and marketing communication of an education center GASK.
+## Title: Digest: Unified visual identity and marketing communication of an education center GASK.
 
-## 🟨 Running Title: Unified visual identity 
+## Running Title: Unified visual identity 
 
 Author Name(s): Tereza Budská
 
