@@ -14,7 +14,7 @@ Word count: 508
 
 - - -
 
-## Digest: Unified visual identity 
+## Digest: ✨ Unified visual identity 
 
 ### Abstract
 - The bachelor's thesis deals with the creation of a communication strategy and visual identity for the GASK Education center in Kutná Hora. The thesis contains an explanation of basic concepts such as visual identity, logotype,  color, marketing communication, target group, means of communication, and strategy.  Finally, it describes the creation of a new unified communication concept, which helps to create a memorable image of the center.
