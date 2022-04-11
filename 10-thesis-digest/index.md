@@ -46,18 +46,20 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### Programs
 - It is also important to present the individual programs that the center offers.
-- ASK -  family / school / kids
+- ASK - family ,,Shall we take daddy with us?"
+- ASK - school ,,Do I have to use a ruler?"
+- ASK - kids ,,Which color is the right one?"
 ![image](3.1.jpg)
 
 #### ASK Kids
-- important points the for kids - playful, fun, colorful, cartoon
+- important points - playful, fun, colorful, sketch
 ![image](4.jpg)
 
 #### ASK Family
-- important points for the family - friendly, love, blue, honesty
+- important points - friendly, love, blue, honesty
 ![image](5.jpg)
 
 #### ASK School
-- important points for the school - education, friendship, red, inspiration, concentration
+- important points - education, friendship, red, inspiration, concentration
 - still in process...:)
 
