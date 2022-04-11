@@ -46,7 +46,7 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### Programs
 - It is also important to present the individual programs that the center offers.
-- ASK - kids / family / school
+- ASK -  family / school / kids
 ![image](3.1.jpg)
 
 #### ASK Kids
