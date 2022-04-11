@@ -37,21 +37,24 @@ My main goal is to create visual communication and strategic solution for the GA
 ### Images
 #### Logotype ASK
 - lorem ipsum
-![image](1.jpg)
+![image](logo.jpg)
 
 #### Education Center ASK
 - lorem ipsum
+![image](1.jpg)
 ![image](2.jpg)
+
+#### ASK Programs
+![image](3.jpg)
 
 #### ASK Kids
 - lorem ipsum
-![image](3.jpg)
+![image](4.jpg)
 
 #### ASK Family
 - lorem ipsum
-![image](4.jpg)
+![image](5.jpg)
 
 #### ASK School
-- lorem ipsum
-![image](5.jpg)
+- still in process
 
