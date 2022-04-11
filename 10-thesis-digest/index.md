@@ -64,5 +64,6 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### ASK School
 - important points - education, friendly, red color, inspiration, concentration
+- The main communication channel is social networks, which are the most effective way for students. The aim of this concept is not only to educate but also to inspire and entertain.
 - still in process...:)
 
