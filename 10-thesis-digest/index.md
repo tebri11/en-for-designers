@@ -54,10 +54,10 @@ My main goal is to create visual communication and strategic solution for the GA
 ![image](4.jpg)
 
 #### ASK Family
-- important points for the family-friendly, love, blue, sincerity
+- important points for the family - friendly, love, blue, honesty
 ![image](5.jpg)
 
 #### ASK School
 - important points for the school - education, friendship, red, inspiration, concentration
-- still in process
+- still in process...:)
 
