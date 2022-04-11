@@ -54,12 +54,12 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### ASK Kids
 - important points - playful, fun, colorful, sketch
-- For the ASK KIDS concept, I will also use outdoor advertisements (Citylights) and posters that are placed indoors. (toy store, children's parks, kindergartens...)
+- All strategic solutions must be created in a playful and entertaining visual style so that the passing child appeals to and has the desire to visit the center. For the ASK KIDS concept, I will also use outdoor advertisements (Citylights) and posters that are placed indoors. (toy store, children's parks, kindergartens...)
 ![image](4.jpg)
 
 #### ASK Family
 - important points - friendly, love, blue color, purity, honest
-- For the ASK FAMILY concept, I will also use outdoor advertisements (Billboards) and social media. (I'll add more images later - still in process) 
+- The overall visual and communication style must look pleasant, and characteristic in a way. For the ASK FAMILY concept, I will also use outdoor advertisements (Billboards) and social media. (I'll add more images later - still in process) 
 ![image](5.jpg)
 
 #### ASK School
