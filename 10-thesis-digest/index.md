@@ -6,7 +6,7 @@ Author Name(s): Tereza Budská
 
 E-mail(s): terkabudska462@gmail.com
 
-Acknowledgement(s): I would like to take this opportunity to thank my supervisor for my bachelor's thesis, Mr. MgA. Jan Kolář, for his guidance, advice, and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials and materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
+Acknowledgement(s): I would like to take this opportunity to thank my supervisor for my bachelor's thesis, Mr. MgA. Jan Kolář, for his guidance, advices, and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
 
 Data Accessibility/Availability Statement: There is no data archived.
 
@@ -25,8 +25,8 @@ Word count: ???
 ### Main Text
 The center was established to understand and bring contemporary art to the audience. As the organization's teaching center does not currently have a comprehensive visual and communication style, I will also work on creating a new communication strategy.
 The bachelor thesis is divided into the theoretical and practical parts. First of all, I will describe and explain the theoretical background that is necessary for the practical part of the bachelor's thesis, I will also analyze the techniques and tools used.
-In the practical part, I analyze the current state of the researched teaching center and describe my design of marketing and visual communication.
-My main goal is to create visual communication and strategic solution for the GASK teaching center in Kutná Hora and at the same time to raise awareness of the existence of the Central Bohemian Region Gallery. At the same time, I want to raise the profile and raise the teaching center, to build positive public relations with this place so that the GASK organization becomes a new refuge and visit the place.
+In the practical part, I will analyze the current state of the researched teaching center and describe my design of marketing and visual communication.
+My main goal is to create visual communication and strategic solution for the GASK teaching center in Kutná Hora and at the same time to raise awareness of the existence of the Central Bohemian Region Gallery. At the same time, I want to raise the profile and raise the teaching center, to build positive public relations with this place so that the GASK organization becomes a visit place for new people.
 
 ### References
 - BERAN, Vladimír, František ŠTORM, Vladimír KOLENSKÝ, Mgr. T. FASSATI. Aktualizovaný typografický manuál. [7th edition]
@@ -49,7 +49,7 @@ My main goal is to create visual communication and strategic solution for the GA
 - ASK FAMILY ,,Shall we take daddy with us?"
 - ASK SCHOOL ,,Do I have to use a ruler?"
 - ASK KIDS ,,Which color is the right one?"
-- Every headline has a reason. He characterizes his program.
+- Every headline has a reason, that characterizes his program.
 ![image](3.1.jpg)
 
 #### ASK Kids
@@ -64,6 +64,6 @@ My main goal is to create visual communication and strategic solution for the GA
 
 #### ASK School
 - important points - education, friendly, red color, inspiration, concentration
-- The main communication channel is social networks, which are the most effective way for students. The aim of this concept is not only to educate but also to inspire and entertain.
+- The main communication channel are social networks, which are the most effective way for students. The aim of this concept is not only to educate but also to inspire and entertain.
 - still in process...:)
 
