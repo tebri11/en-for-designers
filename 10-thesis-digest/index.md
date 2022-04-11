@@ -10,7 +10,7 @@ Acknowledgement(s): I would like to take this opportunity to thank my supervisor
 
 Data Accessibility/Availability Statement: There is no data archived.
 
-Word count: ??? - Digests should be approximately 500 words.
+Word count: ???
 
 - - -
 
@@ -32,26 +32,26 @@ My main goal is to create visual communication and strategic solution for the GA
 - BERAN, Vladimír, František ŠTORM, Vladimír KOLENSKÝ, Mgr. T. FASSATI. Aktualizovaný typografický manuál. [7th edition]
 - HARANTOVÁ, Lenka. Vnímání sociální reklamy vysokoškolskými studenty. [1st edition]
 - HOLLIS, Richard. Stručná historie grafického designu. [1st edition] 
-- SVĚTLÍK, Jaroslav. Reklama - teorie, koncepce a modely. [online], http://www.marketingsvetlik.cz
-- SVĚTLÍK, Jaroslav. Marketing - cesta k trhu. [online], http://www.marketingsvetlik.cz
 - VYSEKALOVÁ, Jitka. Psychologie reklamy. [4th extended updated edition] 
 
 ### Images
-#### Logotype
-![image](9.jpg)
+#### Logotype ASK
+- lorem ipsum
+![image](1.jpg)
+
+#### Education Center ASK
+- lorem ipsum
+![image](2.jpg)
+
+#### ASK Kids
+- lorem ipsum
+![image](3.jpg)
+
+#### ASK Family
+- lorem ipsum
+![image](4.jpg)
+
+#### ASK School
+- lorem ipsum
 ![image](5.jpg)
-
-#### Slogan
-![image](slogan1.jpg)
-![image](slogan.jpg)
-
-#### Posters
-![image](mockup.jpg)
-
-#### Billboards
-![image](ooh1.jpg)
-![image](ooh3.jpg)
-
-#### Social media
-![image](ig.jpg)
 
