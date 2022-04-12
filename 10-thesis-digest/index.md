@@ -6,7 +6,7 @@ Author Name(s): Tereza Budská
 
 E-mail(s): terkabudska462@gmail.com
 
-Acknowledgement(s): I would like to take this opportunity to thank my supervisor, Mr. MgA. Jan Kolář, for his guidance, advices, and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
+Acknowledgement(s) : I would like to take this opportunity to thank my supervisor, Mr MgA.  Jan Kolář for his guidance, advice and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
 
 Data Accessibility/Availability Statement: There is no data archived.
 
