@@ -6,7 +6,7 @@ Author Name(s): Tereza Budská
 
 E-mail(s): terkabudska462@gmail.com
 
-Acknowledgement(s): I would like to take this opportunity to thank my supervisor for my bachelor's thesis, Mr. MgA. Jan Kolář, for his guidance, advices, and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
+Acknowledgement(s): I would like to take this opportunity to thank my supervisor for my thesis project, Mr. MgA. Jan Kolář, for his guidance, advices, and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
 
 Data Accessibility/Availability Statement: There is no data archived.
 
@@ -23,8 +23,8 @@ Word count: 508
 - analysis, colors, communication, customers, design, education center, gallery, GASK Kutná Hora, graphic design, identity, kids, logotype, marketing, strategy, social media, typography, visualization
 
 ### Main Text
-The center was established to understand and bring contemporary art to the audience. As the organization's teaching center does not currently have a comprehensive visual and communication style, I will also work on creating a new communication strategy.
-The bachelor thesis is divided into the theoretical and practical parts. First of all, I will describe and explain the theoretical background that is necessary for the practical part of the bachelor's thesis, I will also analyze the techniques and tools used.
+The center was established to understand and bring contemporary art to the audience. As the organization's teaching center does not currently have a unified visual and communication style, I will also work on creating a new communication strategy.
+The thesis project is divided into the theoretical and practical parts. First of all, I will describe and explain the theoretical background that is necessary for the practical part of the thesis project, I will also analyze the techniques and tools used.
 In the practical part, I will analyze the current state of the researched teaching center and describe my design of marketing and visual communication.
 My main goal is to create visual communication and strategic solution for the GASK teaching center in Kutná Hora and at the same time to raise awareness of the existence of the Central Bohemian Region Gallery. At the same time, I want to raise the profile and raise the teaching center, to build positive public relations with this place so that the GASK organization becomes a visit place for new people.
 
