@@ -6,7 +6,7 @@ Author Name(s): Tereza Budská
 
 E-mail(s): terkabudska462@gmail.com
 
-Acknowledgement(s) : I would like to take this opportunity to thank my supervisor, Mr MgA.  Jan Kolář for his guidance, advice and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
+Acknowledgement(s) : I would like to take this opportunity to thank my supervisor, Mr MgA.  Jan Kolář for his advice and patience. I would also like to thank the GASK Teaching Center in Kutná Hora for providing materials for my work. Last but not least, I want to thank my family, who were able to support me during my work and studies.
 
 Data Accessibility/Availability Statement: There is no data archived.
 
@@ -14,13 +14,13 @@ Word count: 508
 
 - - -
 
-## Digest: ✨ Unified visual identity 
+## Digest: Unified visual identity 
 
 ### Abstract
-- The bachelor's thesis deals with the creation of a communication strategy and visual identity for the GASK Education center in Kutná Hora. The thesis contains an explanation of basic concepts such as visual identity, logotype,  color, marketing communication, target group, means of communication, and strategy.  Finally, it describes the creation of a new unified communication concept, which helps to create a memorable image of the center.
+- The bachelor's thesis focuses with the creation of a communication strategy and visual identity for the GASK Education center in Kutná Hora. The thesis contains an explanation of basic concepts such as visual identity, marketing communication, target groups, social media, and strategy. Finally, it describes the creation of a new unified communication concept, which helps to create a memorable public image of the center.
 
 ### Keywords
-- analysis, colors, communication, customers, design, education center, gallery, GASK Kutná Hora, graphic design, identity, kids, logotype, marketing, strategy, social media, typography, visualization
+- analysis, marketing communication, customers, design, education center, gallery, GASK Kutná Hora, graphic design, visual identity, strategy, social media
 
 ### Main Text
 The center was established to understand and bring contemporary art to the audience. As the organization's teaching center does not currently have a unified visual and communication style, I will also work on creating a new communication strategy.
