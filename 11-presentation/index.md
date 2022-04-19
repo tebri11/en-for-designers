@@ -3,4 +3,4 @@ The thesis project focuses on the creation of a communication strategy and visua
 
 
 
-Video presentation: [here :)))](https://www.youtube.com/watch?v=FkHVHjh8q5U)
+Video Presentation: [here :)))](https://www.youtube.com/watch?v=FkHVHjh8q5U)
