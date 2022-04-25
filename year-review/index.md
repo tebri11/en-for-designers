@@ -5,17 +5,17 @@
 
 
 2. What did you like least about this subject?
-- Each lesson was something creative, there was no day I didn't like. (only when I was sick :)
+- Each lesson was something creative, there was no day I didn't like. (only when I was sick:))
 
 
 3. What were the top 3 things you learned this year?
 - I learned to work with GitHub and use Grammarly.
-- I can create a quality and nice CV.
+- I can create a professional and nice CV.
 - I learned to present my own projects.
 
 
 4. What was the most memorable activity/assignment from this year?
-- To tell you the truth, game Wordle I just won't forget. It seems so simple, but not really it's an easy game!
+- To be honest, a Wordle game I just won't forget. It looks so simple, but it's not that easy game!
 
 
 5. What is something you accomplished this year that you are proud of?
@@ -39,4 +39,4 @@
 
 
 10. What advice would you give to students going into this subject next year?
-- Go to class and enjoy them.
+- Go to class and enjoy these English lessons.
