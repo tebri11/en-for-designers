@@ -1,7 +1,7 @@
 # Review 🤩
 
 1. What did you like most about this subject?
-- I really liked your activity. How I send us interesting links, videos, and articles. All lessons were very original.
+- I really liked your activity. How you sent us interesting links, videos, and articles. All lessons were very original.
 ---
 2. What did you like least about this subject?
 - Each lesson was something creative, there was no day I didn't like. (only when I was sick :)
